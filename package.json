@@ -14,7 +14,7 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
-    "antd": "^4.22.4",
+    "antd": "^4.24.16",
     "gatsby": "^5.16.1",
     "gatsby-plugin-less": "^7.16.0",
     "gatsby-source-filesystem": "^5.16.0",
