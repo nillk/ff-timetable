@@ -89,7 +89,7 @@ const Showtime = ({ show, firstScreenTime }) => {
                 {show.time}~{endTime}
               </span>
             </p>
-            <p className="mb-1">
+            <div className="mb-1">
               <span className="title">{show.title}</span>
               {show.programs.length === 1 && (
                 <Subtitle subtitle={show.programs[0].titleEng} />
@@ -97,7 +97,7 @@ const Showtime = ({ show, firstScreenTime }) => {
               {show.programs.length > 1 && (
                 <SubPrograms subprograms={show.programs} />
               )}
-            </p>
+            </div>
           </div>
         </PopoverTrigger>
         <PopoverContent className="w-auto">
