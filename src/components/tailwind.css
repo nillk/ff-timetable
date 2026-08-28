@@ -16,6 +16,12 @@
   }
 }
 
+@custom-variant data-selected {
+  &:where([data-selected='true']) {
+    @slot;
+  }
+}
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
