@@ -1,12 +1,11 @@
 import React from 'react';
-import { Typography, Popover } from 'antd';
+
+import { Popover, PopoverTrigger, PopoverContent } from '@/components/ui/popover';
 
 import { BOX_SIZE } from '../constants';
 
 import Grade from '../grade';
 import Description from './description';
-
-const { Paragraph, Text } = Typography;
 
 const TIME_HEIGHT = 6;
 const GUTTER = 1.5;
@@ -42,16 +41,14 @@ const getLength = program =>
   program.info !== null ? Number(program.info.length.replace('min', '')) : 0;
 
 const Subtitle = ({ subtitle }) => (
-  <Text type="secondary" style={{ fontStyle: `italic` }}>
-    {subtitle}
-  </Text>
+  <span className="italic text-muted-foreground">{subtitle}</span>
 );
 
 const SubPrograms = ({ subprograms }) => (
   <ul>
     {subprograms.map(program => (
       <li key={program.title}>
-        <Text type="secondary">{program.title}</Text>
+        <span className="text-muted-foreground">{program.title}</span>
       </li>
     ))}
   </ul>
@@ -86,30 +83,28 @@ const Showtime = ({ show, firstScreenTime }) => {
         height: `${height}rem`,
         width: `${BOX_SIZE}rem`,
       }}>
-      <Popover
-        content={
-          <Description programs={show.programs} onClose={hideDescription} />
-        }
-        visible={descVisible}
-        onVisibleChange={handleDescVisibleChange}>
-        <div style={{ marginTop: `0.375rem` }}>
-          <Typography>
-            <Paragraph>
-              <Text strong>
+      <Popover open={descVisible} onOpenChange={handleDescVisibleChange}>
+        <PopoverTrigger asChild>
+          <div style={{ marginTop: `0.375rem` }}>
+            <p className="mb-1">
+              <span className="font-semibold">
                 {show.time}~{endTime}
-              </Text>
-            </Paragraph>
-            <Paragraph>
-              <Text className="title">{show.title}</Text>
+              </span>
+            </p>
+            <p className="mb-1">
+              <span className="title">{show.title}</span>
               {show.programs.length === 1 && (
                 <Subtitle subtitle={show.programs[0].titleEng} />
               )}
               {show.programs.length > 1 && (
                 <SubPrograms subprograms={show.programs} />
               )}
-            </Paragraph>
-          </Typography>
-        </div>
+            </p>
+          </div>
+        </PopoverTrigger>
+        <PopoverContent className="max-md:fixed max-md:inset-0 max-md:m-0 max-md:h-full max-md:w-full max-md:max-w-none max-md:rounded-none max-md:translate-x-0 max-md:translate-y-0">
+          <Description programs={show.programs} onClose={hideDescription} />
+        </PopoverContent>
       </Popover>
       <div className="grade">
         {show.code && <span className="code-tag"><span>{show.code}</span></span>}
