@@ -41,15 +41,13 @@ const getLength = program =>
   program.info !== null ? Number(program.info.length.replace('min', '')) : 0;
 
 const Subtitle = ({ subtitle }) => (
-  <span className="italic text-muted-foreground">{subtitle}</span>
+  <span className="subtitle">{subtitle}</span>
 );
 
 const SubPrograms = ({ subprograms }) => (
-  <ul>
+  <ul className="subprograms">
     {subprograms.map(program => (
-      <li key={program.title}>
-        <span className="text-muted-foreground">{program.title}</span>
-      </li>
+      <li key={program.title}>{program.title}</li>
     ))}
   </ul>
 );

@@ -61,6 +61,15 @@
     font-size: 0.875rem;
   }
 
+  .subtitle {
+    font-style: italic;
+    color: var(--muted-foreground);
+  }
+
+  .subprograms {
+    color: var(--muted-foreground);
+  }
+
   .grade {
     position: absolute;
     top: -1.1rem;
@@ -112,6 +121,7 @@
       .title-eng {
         font-style: italic;
         font-weight: 300;
+        color: var(--muted-foreground);
       }
     }
 

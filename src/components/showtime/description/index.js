@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 const ProgramTitle = ({ title, titleEng }) => (
   <p className="title">
     {title}
-    <span className="title-eng text-muted-foreground"> {titleEng}</span>
+    <span className="title-eng"> {titleEng}</span>
   </p>
 );
 
