@@ -27,21 +27,20 @@ const badgeVariants = cva(
   }
 )
 
-function Badge({
-  className,
-  variant = "default",
-  asChild = false,
-  ...props
-}) {
+const Badge = React.forwardRef(function Badge(
+  { className, variant = "default", asChild = false, ...props },
+  ref
+) {
   const Comp = asChild ? Slot.Root : "span"
 
   return (
     <Comp
+      ref={ref}
       data-slot="badge"
       data-variant={variant}
       className={cn(badgeVariants({ variant }), className)}
       {...props} />
   );
-}
+})
 
 export { Badge, badgeVariants }
