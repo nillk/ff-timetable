@@ -18,7 +18,7 @@ export default ({ visible, onClose, screening, state, actions }) => {
 
   return (
     <Sheet open={visible} onOpenChange={open => !open && onClose()}>
-      <SheetContent>
+      <SheetContent className="max-md:w-[calc(100%-1rem)]!">
         <SheetHeader>
           <SheetTitle className="flex items-center gap-2">
             Filter
