@@ -1,1 +1,17 @@
 @import 'tailwindcss';
+@import 'tw-animate-css';
+
+/* Radix data-state open/closed variants, used by shadcn-style ui components */
+@custom-variant data-open {
+  &:where([data-state='open']),
+  &:where([data-open]:not([data-open='false'])) {
+    @slot;
+  }
+}
+
+@custom-variant data-closed {
+  &:where([data-state='closed']),
+  &:where([data-closed]:not([data-closed='false'])) {
+    @slot;
+  }
+}
