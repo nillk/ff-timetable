@@ -4,6 +4,7 @@ import { Layout } from 'antd';
 
 import '../../fonts/spoqa-han-sans.css';
 import './theme.less';
+import './tailwind.css';
 
 const { Header, Content } = Layout;
 
