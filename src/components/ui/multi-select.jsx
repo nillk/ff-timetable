@@ -36,7 +36,10 @@ export function MultiSelect({ options, value, onChange, placeholder, className }
           variant="outline"
           role="combobox"
           aria-expanded={open}
-          className={cn('h-auto w-full justify-between font-normal', className)}>
+          className={cn(
+            'h-auto min-h-8 w-full justify-between gap-1 py-1.5 font-normal',
+            className,
+          )}>
           <span className="flex flex-1 flex-wrap gap-1 overflow-hidden text-left">
             {value.length === 0 && (
               <span className="text-muted-foreground">{placeholder}</span>
