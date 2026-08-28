@@ -1,7 +1,15 @@
 import React from 'react';
-import { Drawer, Tooltip, Button } from 'antd';
-import { Row, Col, Select } from 'antd';
-import { ClearOutlined } from '@ant-design/icons';
+import { Eraser } from 'lucide-react';
+
+import { Button } from '@/components/ui/button';
+import { MultiSelect } from '@/components/ui/multi-select';
+import { Sheet, SheetContent, SheetHeader, SheetTitle } from '@/components/ui/sheet';
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from '@/components/ui/tooltip';
 
 import { getAllDistinctData } from '../../utils';
 
@@ -9,36 +17,39 @@ export default ({ visible, onClose, screening, state, actions }) => {
   const { setData, clear } = actions;
 
   return (
-    <Drawer
-      title={
-        <div>
-          Filter
-          <Tooltip title="Clear">
-            <Button type="link" icon={<ClearOutlined />} onClick={clear} />
-          </Tooltip>
-        </div>
-      }
-      onClose={onClose}
-      visible={visible}>
-      <Row gutter={[8, 8]}>
-        {Object.keys(state).map(key => (
-          <Col span={24} key={key}>
-            <Select
-              showSearch
-              mode="tags"
-              placeholder={key[0].toUpperCase() + key.substring(1)}
+    <Sheet open={visible} onOpenChange={open => !open && onClose()}>
+      <SheetContent>
+        <SheetHeader>
+          <SheetTitle className="flex items-center gap-2">
+            Filter
+            <TooltipProvider>
+              <Tooltip>
+                <TooltipTrigger asChild>
+                  <Button
+                    variant="ghost"
+                    size="icon-sm"
+                    aria-label="Clear"
+                    onClick={clear}>
+                    <Eraser />
+                  </Button>
+                </TooltipTrigger>
+                <TooltipContent>Clear</TooltipContent>
+              </Tooltip>
+            </TooltipProvider>
+          </SheetTitle>
+        </SheetHeader>
+        <div className="flex flex-col gap-3 p-4">
+          {Object.keys(state).map(key => (
+            <MultiSelect
+              key={key}
+              options={getAllDistinctData(key, screening)}
               value={state[key]}
               onChange={setData(key)}
-              style={{ width: `20.5rem` }}>
-              {getAllDistinctData(key, screening).map(v => (
-                <Select.Option key={v} value={v}>
-                  {v}
-                </Select.Option>
-              ))}
-            </Select>
-          </Col>
-        ))}
-      </Row>
-    </Drawer>
+              placeholder={key[0].toUpperCase() + key.substring(1)}
+            />
+          ))}
+        </div>
+      </SheetContent>
+    </Sheet>
   );
 };
