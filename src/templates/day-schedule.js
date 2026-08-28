@@ -31,8 +31,8 @@ export default ({ data }) => {
     <FilterConsumer>
       {({ state, actions }) => (
         <Page name={schedule.name} year={schedule.year}>
-          <div className="flex items-center justify-between">
-            <h2 className="mb-5 text-3xl font-light">
+          <div className="mb-5 flex items-center gap-2">
+            <h2 className="text-3xl font-light">
               {schedule.dateStr}
             </h2>
             <div>
