@@ -1,9 +1,8 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import { Typography } from 'antd';
-import { Row, Col } from 'antd';
-import { Button } from 'antd';
-import { FilterOutlined } from '@ant-design/icons';
+import { Filter as FilterIcon } from 'lucide-react';
+
+import { Button } from '@/components/ui/button';
 
 import { FilterConsumer } from '../context/filter-context';
 
@@ -32,27 +31,18 @@ export default ({ data }) => {
     <FilterConsumer>
       {({ state, actions }) => (
         <Page name={schedule.name} year={schedule.year}>
-          <Row>
-            <Col>
-              <Typography.Title
-                level={2}
-                style={{
-                  fontWeight: `lighter`,
-                  marginBottom: `1.25rem`,
-                  float: `left`,
-                }}>
-                {schedule.dateStr}
-              </Typography.Title>
-            </Col>
-            <Col>
+          <div className="flex items-center justify-between">
+            <h2 className="mb-5 text-3xl font-light text-foreground">
+              {schedule.dateStr}
+            </h2>
+            <div>
               <Button
-                icon={<FilterOutlined />}
+                variant="ghost"
+                size="icon-lg"
                 aria-label="filter"
-                size="large"
-                type="link"
-                onClick={showDrawer}
-                style={{ color: `rgba(0, 0, 0, 0.85)` }}
-              />
+                onClick={showDrawer}>
+                <FilterIcon />
+              </Button>
               <Filter
                 visible={visible}
                 onClose={closeDrawer}
@@ -60,22 +50,14 @@ export default ({ data }) => {
                 state={state}
                 actions={actions}
               />
-            </Col>
-          </Row>
-          <Row>
-            <Col>
-              <GradeInfo screening={schedule.screening} />
-            </Col>
-          </Row>
-          <Row
-            type="flex"
-            justify="start"
-            gutter={16}
-            style={{ flexFlow: `row` }}>
+            </div>
+          </div>
+          <GradeInfo screening={schedule.screening} />
+          <div className="flex flex-wrap justify-start gap-4">
             {schedule.screening.map(
               screen =>
                 showScreen(state, screen) && (
-                  <Col key={screen.theater} style={{ position: `relative` }}>
+                  <div key={screen.theater} className="relative">
                     <Theater name={screen.theater} />
                     {screen.times.map(
                       time =>
@@ -87,10 +69,10 @@ export default ({ data }) => {
                           />
                         ),
                     )}
-                  </Col>
+                  </div>
                 ),
             )}
-          </Row>
+          </div>
         </Page>
       )}
     </FilterConsumer>
