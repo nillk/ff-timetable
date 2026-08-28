@@ -1,21 +1,17 @@
 import React from 'react';
-import { Typography, Tag, Button } from 'antd';
-import { CloseOutlined } from '@ant-design/icons';
+import { X } from 'lucide-react';
 
-const { Paragraph, Text } = Typography;
+import { Button } from '@/components/ui/button';
 
 const ProgramTitle = ({ title, titleEng }) => (
-  <Paragraph className="title">
+  <p className="title text-foreground">
     {title}
-    <Text type="secondary" className="title-eng">
-      {' '}
-      {titleEng}
-    </Text>
-  </Paragraph>
+    <span className="title-eng text-muted-foreground"> {titleEng}</span>
+  </p>
 );
 
 const ProgramInfo = ({ info }) => (
-  <Paragraph className="info">
+  <p className="info">
     {Object.keys(info)
       .filter(key => key !== 'genre' && info[key])
       .map(key => (
@@ -25,7 +21,7 @@ const ProgramInfo = ({ info }) => (
             : info[key]}
         </span>
       ))}
-  </Paragraph>
+  </p>
 );
 
 const ProgramCredit = ({ credit }) => (
@@ -48,9 +44,9 @@ const ProgramCredit = ({ credit }) => (
 const ProgramGenre = ({ genre }) => (
   <div className="genre">
     {genre.map(g => (
-      <Tag key={g} className="genre-tag">
+      <span key={g} className="genre-tag">
         {g}
-      </Tag>
+      </span>
     ))}
   </div>
 );
@@ -61,24 +57,25 @@ const Description = ({ programs, onClose }) => {
   return (
     <div className="description">
       <Button
-        icon={<CloseOutlined />}
-        size="small"
-        type="link"
+        variant="ghost"
+        size="icon-sm"
         aria-label="close"
         className="close"
-        onClick={onClose}></Button>
+        onClick={onClose}>
+        <X />
+      </Button>
       {programs.map(program => (
-        <Typography key={program.titleEng} className="program">
+        <div key={program.titleEng} className="program">
           <ProgramTitle title={program.title} titleEng={program.titleEng} />
           {program.info && <ProgramInfo info={program.info} />}
           {program.credit && <ProgramCredit credit={program.credit} />}
           {program.info && program.info.genre && (
             <ProgramGenre genre={program.info.genre} />
           )}
-          <Paragraph className="desc">
+          <p className="desc">
             <HTMLDesc htmlText={program.desc} />
-          </Paragraph>
-        </Typography>
+          </p>
+        </div>
       ))}
     </div>
   );
