@@ -102,7 +102,7 @@ const Showtime = ({ show, firstScreenTime }) => {
             </p>
           </div>
         </PopoverTrigger>
-        <PopoverContent className="w-auto max-md:fixed max-md:inset-0 max-md:m-0 max-md:h-full max-md:w-full max-md:max-w-none max-md:rounded-none max-md:translate-x-0 max-md:translate-y-0">
+        <PopoverContent className="w-auto">
           <Description programs={show.programs} onClose={hideDescription} />
         </PopoverContent>
       </Popover>

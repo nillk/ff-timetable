@@ -175,6 +175,33 @@
   }
 }
 
+/*
+ * Full-screen description popover on phones. Radix positions the popover through
+ * a wrapper carrying `transform` and `will-change: transform` (the latter only on
+ * high-DPI screens), and either one makes that wrapper the containing block for
+ * fixed-position descendants. Both have to go before the content can size itself
+ * against the viewport.
+ */
+@media (width < 48rem) {
+  [data-radix-popper-content-wrapper]:has(.description) {
+    transform: none !important;
+    will-change: auto !important;
+  }
+
+  [data-slot='popover-content']:has(> .description) {
+    position: fixed;
+    inset: 0;
+    width: auto;
+    max-width: none;
+    height: auto;
+    overflow-y: auto;
+  }
+
+  .description {
+    max-width: none;
+  }
+}
+
 .grade-info-typography {
   font-size: 0.75rem;
   font-weight: 400;
