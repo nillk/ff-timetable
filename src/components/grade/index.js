@@ -1,9 +1,6 @@
 import React from 'react';
-import { Typography } from 'antd';
 
 import { getAllDistinctGrades } from '../../utils';
-
-const { Text } = Typography;
 
 export const GRADES = {
   G: {
@@ -62,9 +59,9 @@ export const GradeInfo = ({ screening }) => (
     }}>
     {getAllDistinctGrades(screening).map(g => (
       <div key={g} style={{ float: `left`, marginRight: `0.85rem` }}>
-        <Text className="grade-info-typography">
+        <span className="grade-info-typography">
           <strong>/ {g} /</strong> {GRADES[g].text}
-        </Text>
+        </span>
       </div>
     ))}
   </div>
