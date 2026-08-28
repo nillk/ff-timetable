@@ -53,11 +53,11 @@ export default ({ data }) => {
             </div>
           </div>
           <GradeInfo screening={schedule.screening} />
-          <div className="flex flex-wrap justify-start gap-4">
+          <div className="flex flex-nowrap justify-start gap-4">
             {schedule.screening.map(
               screen =>
                 showScreen(state, screen) && (
-                  <div key={screen.theater} className="relative">
+                  <div key={screen.theater} className="relative shrink-0">
                     <Theater name={screen.theater} />
                     {screen.times.map(
                       time =>
