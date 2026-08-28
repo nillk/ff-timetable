@@ -1,12 +1,9 @@
 import React from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
-import { Layout } from 'antd';
 
 import '../../fonts/spoqa-han-sans.css';
 import './theme.less';
 import './tailwind.css';
-
-const { Header, Content } = Layout;
 
 export default ({ name, year, children }) => (
   <StaticQuery
@@ -25,8 +22,8 @@ export default ({ name, year, children }) => (
       }
     `}
     render={data => (
-      <Layout>
-        <Header>
+      <div className="ant-layout">
+        <header className="ant-layout-header">
           <Link
             to={`/`}
             key={`/`}
@@ -34,9 +31,9 @@ export default ({ name, year, children }) => (
             HOME
           </Link>
           {getDateLinks(name, year, data)}
-        </Header>
-        <Content>{children}</Content>
-      </Layout>
+        </header>
+        <main className="ant-layout-content">{children}</main>
+      </div>
     )}
   />
 );
