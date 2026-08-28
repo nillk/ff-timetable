@@ -1,11 +1,8 @@
 import React from 'react';
 import { graphql, Link } from 'gatsby';
-import { Typography } from 'antd';
-import { VideoCameraOutlined } from '@ant-design/icons';
+import { Video } from 'lucide-react';
 
 import Page from '../components/layout';
-
-const { Title, Paragraph } = Typography;
 
 export default ({ data }) => {
   const ffInfo = data.allSchedule.group.reduce((acc, curr) => {
@@ -22,24 +19,22 @@ export default ({ data }) => {
 
   return (
     <Page>
-      <Typography>
-        <Title>
-          <VideoCameraOutlined /> Film Festival Timetable
-        </Title>
-        <Paragraph>
-          <ul>
-            {ffInfo.map(ff => {
-              return Object.keys(ff.years).map(year => (
-                <li key={`/${ff.name}/${year}`}>
-                  <Link to={ff.years[year]}>
-                    {ff.name.toUpperCase()} {year}
-                  </Link>
-                </li>
-              ));
-            })}
-          </ul>
-        </Paragraph>
-      </Typography>
+      <h1 className="mb-4 flex items-center gap-2 text-2xl font-semibold text-foreground">
+        <Video className="size-6" /> Film Festival Timetable
+      </h1>
+      <div>
+        <ul>
+          {ffInfo.map(ff => {
+            return Object.keys(ff.years).map(year => (
+              <li key={`/${ff.name}/${year}`}>
+                <Link to={ff.years[year]}>
+                  {ff.name.toUpperCase()} {year}
+                </Link>
+              </li>
+            ));
+          })}
+        </ul>
+      </div>
     </Page>
   );
 };
