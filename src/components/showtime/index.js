@@ -100,7 +100,7 @@ const Showtime = ({ show, firstScreenTime }) => {
             </div>
           </div>
         </PopoverTrigger>
-        <PopoverContent className="w-auto">
+        <PopoverContent className="w-auto md:max-h-(--radix-popover-content-available-height) md:overflow-y-auto">
           <Description programs={show.programs} onClose={hideDescription} />
         </PopoverContent>
       </Popover>
