@@ -113,7 +113,6 @@
 
   .close {
     float: right;
-    color: var(--foreground);
   }
 
   .program {
@@ -143,7 +142,6 @@
 
     .credit {
       font-size: 0.78rem;
-      color: var(--foreground);
 
       li {
         list-style-type: none;

@@ -32,7 +32,7 @@ export default ({ data }) => {
       {({ state, actions }) => (
         <Page name={schedule.name} year={schedule.year}>
           <div className="flex items-center justify-between">
-            <h2 className="mb-5 text-3xl font-light text-foreground">
+            <h2 className="mb-5 text-3xl font-light">
               {schedule.dateStr}
             </h2>
             <div>

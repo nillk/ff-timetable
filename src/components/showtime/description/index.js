@@ -4,7 +4,7 @@ import { X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 const ProgramTitle = ({ title, titleEng }) => (
-  <p className="title text-foreground">
+  <p className="title">
     {title}
     <span className="title-eng text-muted-foreground"> {titleEng}</span>
   </p>
