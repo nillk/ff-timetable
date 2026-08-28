@@ -21,14 +21,6 @@ module.exports = {
         ignore: [`**/__pycache__`, `**/*.md`, `**/*.txt`, `**/*.py`],
       },
     },
-    {
-      resolve: `gatsby-plugin-less`,
-      options: {
-        lessOptions: {
-          javascriptEnabled: true,
-        },
-      },
-    },
     `gatsby-plugin-postcss`,
   ],
 };
