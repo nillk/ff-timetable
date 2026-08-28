@@ -22,8 +22,8 @@ export default ({ name, year, children }) => (
       }
     `}
     render={data => (
-      <div className="ant-layout">
-        <header className="ant-layout-header">
+      <div className="flex h-screen flex-col overflow-auto">
+        <header className="site-header">
           <Link
             to={`/`}
             key={`/`}
@@ -32,7 +32,7 @@ export default ({ name, year, children }) => (
           </Link>
           {getDateLinks(name, year, data)}
         </header>
-        <main className="ant-layout-content">{children}</main>
+        <main className="site-content">{children}</main>
       </div>
     )}
   />

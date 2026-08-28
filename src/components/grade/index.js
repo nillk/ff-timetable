@@ -59,7 +59,7 @@ export const GradeInfo = ({ screening }) => (
     }}>
     {getAllDistinctGrades(screening).map(g => (
       <div key={g} style={{ float: `left`, marginRight: `0.85rem` }}>
-        <span className="grade-info-typography">
+        <span className="grade-info">
           <strong>/ {g} /</strong> {GRADES[g].text}
         </span>
       </div>
@@ -69,7 +69,7 @@ export const GradeInfo = ({ screening }) => (
 
 const Grade = ({ level }) => {
   return (
-    <span className="typography">{level}</span>
+    <span className="grade-tag">{level}</span>
   );
 };
 
