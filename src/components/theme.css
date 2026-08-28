@@ -2,18 +2,14 @@
 .ant-layout {
   display: flex;
   flex-direction: column;
-  min-height: 0;
   overflow: auto;
   height: 100vh;
-  background-color: white;
 }
 
 .ant-layout-header {
   flex: 0 0 auto;
-  background-color: white;
   height: 4rem;
   padding: 1rem 2rem;
-  line-height: unset;
   overflow-x: auto;
   overflow-y: hidden;
   white-space: nowrap;
@@ -26,7 +22,6 @@
   font-size: 0.875rem;
   font-weight: 300;
   margin-right: 0.5rem;
-  text-decoration-line: unset;
 }
 
 .ant-layout-header a:nth-child(n + 2)::before {
@@ -35,7 +30,6 @@
 }
 
 .ant-layout-header a:hover {
-  color: black;
   font-weight: 400;
 }
 
@@ -43,7 +37,6 @@
   flex: auto;
   min-height: 0;
   padding: 0.5rem 2rem;
-  height: 100vh;
 }
 
 @media all and (max-device-width: 768px) {
