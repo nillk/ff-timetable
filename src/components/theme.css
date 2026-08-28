@@ -85,7 +85,6 @@
       position: absolute;
       right: 0;
       background-color: black;
-      border: none;
       color: white;
       height: 1.5rem;
       line-height: 2rem;
@@ -164,7 +163,6 @@
         padding: 0 0.3rem;
         margin-right: 0.25rem;
         background-color: black;
-        border-color: black;
         color: white;
       }
     }
