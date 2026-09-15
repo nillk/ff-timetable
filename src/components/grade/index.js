@@ -51,6 +51,9 @@ export const GRADES = {
   NE: {
     text: '비영어대사+영어자막',
   },
+  B: {
+    text: '묶음상영',
+  },
 };
 
 export const GradeInfo = ({ screening }) => (
