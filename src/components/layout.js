@@ -2,7 +2,6 @@ import React from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
 import { Layout } from 'antd';
 
-import '../../fonts/spoqa-han-sans.css';
 import './theme.less';
 
 const { Header, Content } = Layout;
