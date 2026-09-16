@@ -1,0 +1,140 @@
+{
+  "name": "biff",
+  "year": 2026,
+  "date": "day15",
+  "dateStr": "2026.10.15 목",
+  "screening": [
+    {
+      "theater": "영화의전당 루프씨어터",
+      "times": [
+        {
+          "time": "18:00",
+          "title": "폐막식 + 부산 어워드 수상작 상영",
+          "grades": [],
+          "code": "002",
+          "programs": [
+            {
+              "title": "폐막식 + 부산 어워드 수상작 상영",
+              "titleEng": "Closing Ceremony + The Winner of Busan Award Screening",
+              "url": "https://www.biff.kr",
+              "desc": null,
+              "info": null,
+              "credit": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theater": "영화의전당 중극장",
+      "times": [
+        {
+          "time": "10:00",
+          "title": "플래시 포워드 관객상 수상작",
+          "grades": [],
+          "code": "731",
+          "programs": [
+            {
+              "title": "플래시 포워드 관객상 수상작",
+              "titleEng": "The Winner of Flash Forward Audience Award",
+              "url": "https://www.biff.kr",
+              "desc": null,
+              "info": null,
+              "credit": null
+            }
+          ]
+        },
+        {
+          "time": "13:40",
+          "title": "시민평론가상 수상작",
+          "grades": [],
+          "code": "732",
+          "programs": [
+            {
+              "title": "시민평론가상 수상작",
+              "titleEng": "The Winner of Citizen Critics' Award",
+              "url": "https://www.biff.kr",
+              "desc": null,
+              "info": null,
+              "credit": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theater": "영화의전당 소극장",
+      "times": [
+        {
+          "time": "10:20",
+          "title": "송원 비전 관객상 - 한국 수상작",
+          "grades": [],
+          "code": "733",
+          "programs": [
+            {
+              "title": "송원 비전 관객상 - 한국 수상작",
+              "titleEng": "The Winner of Songwon Vision Audience Award - Korea",
+              "url": "https://www.biff.kr",
+              "desc": null,
+              "info": null,
+              "credit": null
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "title": "송원 비전 관객상 - 아시아 수상작",
+          "grades": [],
+          "code": "734",
+          "programs": [
+            {
+              "title": "송원 비전 관객상 - 아시아 수상작",
+              "titleEng": "The Winner of Songwon Vision Audience Award - Asia",
+              "url": "https://www.biff.kr",
+              "desc": null,
+              "info": null,
+              "credit": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theater": "영화의전당 시네마테크",
+      "times": [
+        {
+          "time": "10:20",
+          "title": "부산시네필상 수상작",
+          "grades": [],
+          "code": "735",
+          "programs": [
+            {
+              "title": "부산시네필상 수상작",
+              "titleEng": "The Winner of Busan Cinephile Award",
+              "url": "https://www.biff.kr",
+              "desc": null,
+              "info": null,
+              "credit": null
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "title": "다큐멘터리 관객상 수상작",
+          "grades": [],
+          "code": "736",
+          "programs": [
+            {
+              "title": "다큐멘터리 관객상 수상작",
+              "titleEng": "The Winner of Documentary Audience Award",
+              "url": "https://www.biff.kr",
+              "desc": null,
+              "info": null,
+              "credit": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

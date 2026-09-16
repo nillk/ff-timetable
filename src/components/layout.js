@@ -1,7 +1,6 @@
 import React from 'react';
 import { StaticQuery, graphql, Link } from 'gatsby';
 
-import '../../fonts/spoqa-han-sans.css';
 import './theme.css';
 import './tailwind.css';
 
