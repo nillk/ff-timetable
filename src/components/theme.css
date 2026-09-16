@@ -48,7 +48,7 @@
 /* Custom */
 .showtime {
   position: absolute;
-  padding: 0rem 0.5rem;
+  padding: 0rem 0.2rem;
   border-top: 0.2rem solid black;
   border-bottom: 0.2rem solid lightgray;
   font-size: 0.75rem;
