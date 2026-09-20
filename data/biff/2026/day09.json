@@ -21,7 +21,7 @@
               "title": "스파이럴",
               "titleEng": "The Spiral",
               "url": "https://www.biff.kr/kor/html/program/prog_view.asp?idx=91100&c_idx=437",
-              "desc": "<홀리 보이>(2025)로 서늘한 매혹을 선사했던 파올로 스트리폴리가 신작 <스파이럴>로 다리오 아르젠토의 계보를 잇는 이탈리아 판타스틱 영화의 후계자임을 다시 한번 증명한다. 부유한 부르주아 가문의 엄마는 개의 습격으로 다리를 잃을 위기에 처한 딸을 구하고자 정체 모를 여인과 계약을 맺는다. 그러나 악마는 결코 대가 없이 손을 내밀지 않는 법. 그 대가는 가족 전체를 끝없는 비극의 소용돌이로 끌어들인다. 봉준호의 <기생충>(2018)을 연상시키는 이 작품은 이기심으로 악마를 집 안에 들인 1980년대 이탈리아 부르주아 계급에 대한 예리한 성찰이기도 하다. 최면을 걸듯 몽환적인 바로크풍 비주얼 위로, 이탈리아를 대표하는 배우 아드리아노 잔니니와 자스민 트린카가 팽팽한 긴장을 빚어내고, 발레리아 브루니 테데스키는 파격적인 악마적 존재로 분해 전혀 다른 얼굴을 보여준다. 공포와 계급, 욕망이 나선처럼 휘감기는 우아한 악몽. (서승희)",
+              "desc": "<홀리 보이>(2025)로 서늘한 매혹을 선사했던 파올로 스트리폴리가 신작 <스파이럴>로 다리오 아르젠토의 계보를 잇는 이탈리아 판타스틱 영화의 후계자임을 다시 한번 증명한다. 부유한 부르주아 가문의 엄마는 개의 습격으로 다리를 잃을 위기에 처한 딸을 구하고자 정체 모를 여인과 계약을 맺는다. 그러나 악마는 결코 대가 없이 손을 내밀지 않는 법. 그 대가는 가족 전체를 끝없는 비극의 소용돌이로 끌어들인다. 봉준호의 <기생충>(2019)을 연상시키는 이 작품은 이기심으로 악마를 집 안에 들인 1980년대 이탈리아 부르주아 계급에 대한 예리한 성찰이기도 하다. 최면을 걸듯 몽환적인 바로크풍 비주얼 위로, 이탈리아를 대표하는 배우 아드리아노 잔니니와 자스민 트린카가 팽팽한 긴장을 빚어내고, 발레리아 브루니 테데스키는 파격적인 악마적 존재로 분해 전혀 다른 얼굴을 보여준다. 공포와 계급, 욕망이 나선처럼 휘감기는 우아한 악몽. (서승희)",
               "info": {
                 "genre": [
                   "베니스영화제 경쟁",
@@ -42,6 +42,41 @@
               "credit": {
                 "director": [
                   "Paolo STRIPPOLI 파올로 스트리폴리"
+                ],
+                "cast": [
+                  "Jasmine TRINCA",
+                  "Romana MAGGIORA VERGANO",
+                  "Adriano GIANNINI",
+                  "Valeria BRUNI TEDESCHI"
+                ],
+                "screenplay": [
+                  "Paolo STRIPPOLI",
+                  "Salvatore DE CHIRICO"
+                ],
+                "cinematography": [
+                  "Cristiano DI NICOLA"
+                ],
+                "productionDesign": [
+                  "Marcello DI CALRO"
+                ],
+                "editor": [
+                  "Federico PALMERINI"
+                ],
+                "music": [
+                  "ROB"
+                ],
+                "sound": [
+                  "Quentin COLLETTE",
+                  "Marc BASTIEN",
+                  "Franco PISCOPO"
+                ],
+                "productionCompany": [
+                  "Propaganda Italia",
+                  "marina@propaganda.it"
+                ],
+                "worldSales": [
+                  "LE PACTE",
+                  "t.berenger@le-pacte.com"
                 ]
               }
             }
@@ -85,6 +120,18 @@
               "credit": {
                 "director": [
                   "SHINOMIYA Yoshitoshi 시노미야 요시토시"
+                ],
+                "cast": [
+                  "Riku HAGIWARA",
+                  "Kotone FURUKAWA"
+                ],
+                "productionCompany": [
+                  "Asmik Ace, Inc",
+                  "nakanishiyuj@jupiter.jcom.co.jp"
+                ],
+                "worldSales": [
+                  "Asmik Ace, Inc.",
+                  "nakanishiyuj@jupiter.jcom.co.jp"
                 ]
               }
             }
@@ -127,6 +174,30 @@
               "credit": {
                 "director": [
                   "July JUNG 정주리"
+                ],
+                "producer": [
+                  "Dongha LEE 이동하"
+                ],
+                "co-producer​": [
+                  "Alexis DANTEC 알렉시 단텍",
+                  "Gilles CHANIAL 질 샤니알"
+                ],
+                "cast": [
+                  "Doyeon KIM 김도연",
+                  "Sakura ANDO 안도 사쿠라",
+                  "Saebyeok SONG 송새벽",
+                  "Wonyoung CHOI 최원영"
+                ],
+                "cinematography": [
+                  "Irina LUBTCHANSKY 이리나 룹찬스키"
+                ],
+                "productionCompany": [
+                  "REDPETER FILMS Co.¸ Ltd",
+                  "msswirl@naver.com"
+                ],
+                "worldSales": [
+                  "FINECUT INTERNATIONAL",
+                  "sales@finecut.co.kr"
                 ]
               }
             }
@@ -164,6 +235,43 @@
               "credit": {
                 "director": [
                   "YEON Sang-ho 연상호"
+                ],
+                "assistantDirector​": [
+                  "Young-woo YOON 윤영우"
+                ],
+                "executiveProducer": [
+                  "Yoomin Hailey YANG 양유민"
+                ],
+                "cast": [
+                  "Hyun-joo KIM 김현주",
+                  "Hyeon-seong BAE 배현성"
+                ],
+                "screenplay": [
+                  "Sang-ho YEON 연상호",
+                  "Yong-jae RYU 류용재"
+                ],
+                "cinematography": [
+                  "Hyun-suk SONG 송현석"
+                ],
+                "productionDesign": [
+                  "Mok-won LEE 이목원"
+                ],
+                "editor": [
+                  "Ju-ae PARK 박주애"
+                ],
+                "music": [
+                  "Min-joo CHAI 채민주"
+                ],
+                "sound": [
+                  "Suk-won KIM 김석원"
+                ],
+                "productionCompany": [
+                  "WOWPOINT",
+                  "contact@wowpoint.co"
+                ],
+                "worldSales": [
+                  "CJ ENM",
+                  "filmesales@cj.net"
                 ]
               }
             }
@@ -200,6 +308,35 @@
               "credit": {
                 "director": [
                   "Majid MAJIDI 마지드 마지디"
+                ],
+                "producer": [
+                  "Majid MAJIDI",
+                  "Amir BANAN"
+                ],
+                "cast": [
+                  "Mohammad RAHIMI",
+                  "Kheyri ZAKERI",
+                  "Rahim BAKHSH PIRA",
+                  "Heybatmorad DAMANI"
+                ],
+                "editor": [
+                  "Mahyar BEHMANESH"
+                ],
+                "writer": [
+                  "Majid MAJIDI",
+                  "Houman BEHMANESH"
+                ],
+                "directorofPhotography": [
+                  "Houman BEHMANESH"
+                ],
+                "composer": [
+                  "Ramin KOUSHA"
+                ],
+                "soundDesign&Mixing": [
+                  "Mohammadreza DELPAK"
+                ],
+                "setDesign": [
+                  "Mohammadreza MIRZAMOHAMMADI"
                 ]
               }
             }
@@ -239,6 +376,43 @@
               "credit": {
                 "director": [
                   "Ham TRAN 함 쩐"
+                ],
+                "executiveProducer": [
+                  "Lester HSI"
+                ],
+                "producer": [
+                  "Nelson MOK",
+                  "Anderson LE",
+                  "Luey Tuan ANH",
+                  "Ly Đỗ",
+                  "Tino"
+                ],
+                "cast": [
+                  "Doan Minh ANH",
+                  "Ba TAY",
+                  "Loube NGUYEN",
+                  "Gia TUE",
+                  "Cao Thuy LINH",
+                  "Quang TUAN",
+                  "Le Be LA"
+                ],
+                "screenplay": [
+                  "Ham TRAN",
+                  "Hoài NAM",
+                  "Mai Nhật Ánh NGUYỄN"
+                ],
+                "cinematography": [
+                  "PHÙNAM"
+                ],
+                "productionCompany": [
+                  "Kontribute Studio",
+                  "luey@kontribute.tv",
+                  "East Films",
+                  "ale808@gmail.com"
+                ],
+                "worldSales": [
+                  "Mokster Films",
+                  "nmok@moksterfilms.com"
                 ]
               }
             },
@@ -265,6 +439,50 @@
               "credit": {
                 "director": [
                   "WANG I-Fan 왕이판"
+                ],
+                "producer": [
+                  "Chi-Hsiang CHUANG",
+                  "Feng-Jung CHIANG"
+                ],
+                "cast": [
+                  "Ning HAN",
+                  "Sota FUKUSHI",
+                  "Nic CHIANG",
+                  "Tsukahara DAISUKE",
+                  "Guan-Zhi HUANG",
+                  "Megan LAI",
+                  "Liting HSU"
+                ],
+                "screenplay": [
+                  "I-Fan WANG"
+                ],
+                "cinematography": [
+                  "I-Fan WANG"
+                ],
+                "productionDesign": [
+                  "Hand CHOU"
+                ],
+                "editor": [
+                  "I-Fan WANG",
+                  "Ming-Yi TONG"
+                ],
+                "music": [
+                  "Blaire KO"
+                ],
+                "sound": [
+                  "Wei-Liang CHEN"
+                ],
+                "productionCompany": [
+                  "SCORCHING SUN PRODUCTION",
+                  "a310542@yahoo.com.tw",
+                  "My Story Entertainment",
+                  "shawn.chuang@mystoryent.com.tw"
+                ],
+                "worldSales": [
+                  "Kiki’s Distribution Service",
+                  "kiyu6091@gmail.com",
+                  "ABLAZE IMAGE / 光在影像",
+                  "junewu@ablazeimage.com"
                 ]
               }
             },
@@ -292,6 +510,41 @@
               "credit": {
                 "director": [
                   "Alexandre FRANCHI 알렉상드르 프란치"
+                ],
+                "producer": [
+                  "Ménaïc RAOUL",
+                  "Alexandre FRANCHI"
+                ],
+                "cast": [
+                  "Pierre-Yves CARDINAL",
+                  "Bilel CHEGRANI",
+                  "Karine GONTHIER-HYNDMAN",
+                  "Nahéma RICCI",
+                  "Marc MESSIER",
+                  "Benoit GOUIN"
+                ],
+                "screenplay": [
+                  "Alexandre FRANCHI",
+                  "Simon LAVOIE"
+                ],
+                "cinematography": [
+                  "Steve ASSELIN"
+                ],
+                "productionDesign": [
+                  "Paskale JOBIN"
+                ],
+                "editor": [
+                  "Hubert HAYAUD"
+                ],
+                "music": [
+                  "Gabriel SCOTTI"
+                ],
+                "sound": [
+                  "Ilyaa GHAFOURI"
+                ],
+                "productionCompany": [
+                  "Cool Raoul",
+                  "menaic@coolraoul.ca"
                 ]
               }
             }
@@ -336,6 +589,29 @@
               "credit": {
                 "director": [
                   "NGUYEN Phuong Mai 응우옌푸엉마이"
+                ],
+                "producer": [
+                  "Priscilla BERTIN",
+                  "Judith NORA"
+                ],
+                "co-producer​": [
+                  "Nick SHUMAKER"
+                ],
+                "cast": [
+                  "Will SHARPE",
+                  "Stephanie HSU"
+                ],
+                "screenplay": [
+                  "Fanny BURDINO",
+                  "Samuel DOUX"
+                ],
+                "music": [
+                  "Oklou",
+                  "Rob"
+                ],
+                "productionCompany": [
+                  "Silex Films",
+                  "Anonymous Content"
                 ]
               }
             }
@@ -372,6 +648,21 @@
               "credit": {
                 "director": [
                   "George MILLER 조지 밀러"
+                ],
+                "producer": [
+                  "Byron KENNEDY"
+                ],
+                "cast": [
+                  "Mel GIBSON"
+                ],
+                "cinematography": [
+                  "David EGGBY"
+                ],
+                "productionCompany": [
+                  "Kennedy Miller Productions"
+                ],
+                "worldSales": [
+                  "Park Circus"
                 ]
               }
             }
@@ -409,6 +700,43 @@
               "credit": {
                 "director": [
                   "Ernesto Maria CENSORI 에르네스토 마리아 첸소리"
+                ],
+                "producer": [
+                  "Giorgio GUCCI",
+                  "Federica LUCISANO",
+                  "Paolo DEL BROCCO"
+                ],
+                "cast": [
+                  "Andrea ARCANGELI",
+                  "Filippo TIMI",
+                  "Peppe SERVILLO",
+                  "Sasà STRIANO",
+                  "Swamy ROTOLO",
+                  "Luigi DIBERTI"
+                ],
+                "screenplay": [
+                  "Ernesto Maria CENSORI",
+                  "Lorenzo MARINELLI"
+                ],
+                "cinematography": [
+                  "Andrea Benjamin MANENTI"
+                ],
+                "editor": [
+                  "Chichi TADDEUCCI"
+                ],
+                "music": [
+                  "Rodrigo D'ERASMO"
+                ],
+                "sound": [
+                  "Arianna DE LUCA"
+                ],
+                "productionCompany": [
+                  "Alcor - IIF (Italian international film)",
+                  "Rai Cinema"
+                ],
+                "worldSales": [
+                  "True Colours - Glorius Films SRL",
+                  "fabio@truecolours.it"
                 ]
               }
             }
@@ -446,6 +774,39 @@
               "credit": {
                 "director": [
                   "Andrea PALLAORO 안드레아 팔라오로"
+                ],
+                "cast": [
+                  "Alicia VIKANDER",
+                  "Luca MARINELLI",
+                  "Susan SARANDON"
+                ],
+                "screenplay": [
+                  "Bernardo BERTOLUCCI",
+                  "Ilaria BERNARDINI",
+                  "Ludovica RAMPOLDI"
+                ],
+                "cinematography": [
+                  "Diego GARCÍA"
+                ],
+                "productionDesign": [
+                  "Gaspare DE PASCALI"
+                ],
+                "editor": [
+                  "Paola FREDDI"
+                ],
+                "music": [
+                  "Clément DUCOL"
+                ],
+                "sound": [
+                  "Guilhem DONZEL"
+                ],
+                "productionCompany": [
+                  "Indigo Film",
+                  "carlotta@indigofilm.it"
+                ],
+                "worldSales": [
+                  "Paradise City Sales",
+                  "anais@paradisecity-films.com"
                 ]
               }
             }
@@ -485,6 +846,44 @@
               "credit": {
                 "director": [
                   "Asghar FARHADI 아스가르 파르하디"
+                ],
+                "producer": [
+                  "Alexandre MALLET-GUY",
+                  "Asghar FARHADI",
+                  "David LEVINE"
+                ],
+                "cast": [
+                  "Isabelle HUPPERT",
+                  "Virginie EFIRA",
+                  "Vincent CASSEL",
+                  "Pierre NINEY",
+                  "Adam BESSA",
+                  "India HAIR",
+                  "Catherine DENEUVE"
+                ],
+                "screenplay": [
+                  "Asghar FARHADI",
+                  "Saeed FARHADI"
+                ],
+                "cinematography": [
+                  "Guillaume DEFFONTAINES"
+                ],
+                "productionDesign": [
+                  "Emmanuelle DUPLAY"
+                ],
+                "editor": [
+                  "Hayedeh SAFIYARI"
+                ],
+                "sound": [
+                  "Pierre MERTENS"
+                ],
+                "productionCompany": [
+                  "MEMENTO PRODUCTION",
+                  "yousra@memento.eu"
+                ],
+                "worldSales": [
+                  "Charades",
+                  "sales@charades.eu"
                 ]
               }
             }
@@ -528,6 +927,33 @@
               "credit": {
                 "director": [
                   "Emmanuel MARRE 에마뉘엘 마르"
+                ],
+                "producer": [
+                  "Alexandre PERRIER",
+                  "Sébastien ANDRES",
+                  "Alice LEMAIRE"
+                ],
+                "cast": [
+                  "Swann ARLAUD",
+                  "Sandrine BLANCKE",
+                  "Mathieu PEROTTO"
+                ],
+                "screenplay": [
+                  "Emmanuel MARRE"
+                ],
+                "cinematography": [
+                  "Olivier BOONJING"
+                ],
+                "editor": [
+                  "Nicolas RUMPL"
+                ],
+                "productionCompany": [
+                  "Kidam",
+                  "Michigan Films"
+                ],
+                "worldSales": [
+                  "Charades",
+                  "leonard@charades.eu"
                 ]
               }
             }
@@ -567,6 +993,41 @@
               "credit": {
                 "director": [
                   "Sailesh RATHNAKUMAR 사일레시 라트나쿠마르"
+                ],
+                "executiveProducer": [
+                  "Hema Prakash MANOHARAN",
+                  "Monali BHARDWAJ"
+                ],
+                "producer": [
+                  "Anjali PATIL"
+                ],
+                "cast": [
+                  "Anjali PATIL",
+                  "Swathy KRISHNAN",
+                  "Vinoth KISHAN",
+                  "Archana PADMINI",
+                  "Raja KRISHNAMOORTHY",
+                  "Mekha RAJAN",
+                  "Semmalar ANNAM"
+                ],
+                "cinematography": [
+                  "Bargav SRIDHAR"
+                ],
+                "productionDesign": [
+                  "Shanoo MURALIDHARAN"
+                ],
+                "editor": [
+                  "Sreekar PRASAD"
+                ],
+                "music": [
+                  "Suren Vikhash U"
+                ],
+                "sound": [
+                  "Anand KRISHNAMOORTHY"
+                ],
+                "productionCompany": [
+                  "Anahat Films",
+                  "writetous@anahatfilms.com"
                 ]
               }
             }
@@ -606,6 +1067,34 @@
               "credit": {
                 "director": [
                   "KUMAMOTO Ryohei 구마모토 료헤이"
+                ],
+                "producer": [
+                  "Hidetaka INOUE",
+                  "Kousuke OKAMURA"
+                ],
+                "cast": [
+                  "Ruhito ÔKURA",
+                  "Sayu KUBOTA",
+                  "Yuka ITAYA",
+                  "Motoki FUKAMI"
+                ],
+                "screenplay": [
+                  "Atsuki TOMORI"
+                ],
+                "cinematography": [
+                  "Yoshiaki YAMAMOTO"
+                ],
+                "music": [
+                  "Ryota YANAGISAWA (SUPER BEAVER)",
+                  "Kei KAWANO"
+                ],
+                "productionCompany": [
+                  "Eggman Inc.",
+                  "inquiry@getafilms.com"
+                ],
+                "worldSales": [
+                  "GETA FILMS / Green Light LLC.",
+                  "inquiry@getafilms.com"
                 ]
               }
             }
@@ -639,6 +1128,38 @@
               "credit": {
                 "director": [
                   "Darkhan TULEGENOV 다르한 툴레게노프"
+                ],
+                "executiveProducer": [
+                  "Elya ISKAKOVA"
+                ],
+                "producer": [
+                  "Kuat SADYKOV",
+                  "Igor TSAY",
+                  "Rustem OMAROV",
+                  "Timur SMAGULOV",
+                  "Orynbasar KUDAIBERGENOV",
+                  "Anel SARTAYEVA"
+                ],
+                "cast": [
+                  "Aigerim MUSTAFA",
+                  "Tolkyn NURBEKOVA",
+                  "Assel AKBAROVA",
+                  "Ansar BOLATBEKULY",
+                  "Damir AMANGELDIN",
+                  "Dana AMIRKUL",
+                  "Olzhas ABAI",
+                  "Kadirgali KOBENTAY",
+                  "Zhanat OSPANOV",
+                  "Nushanbek ZHYBANAYEV"
+                ],
+                "screenplay": [
+                  "Anel SARTAYEVA",
+                  "Perizat MYRZAKHMET",
+                  "Luiza ZARIPOVA"
+                ],
+                "productionCompany": [
+                  "Salem Entertainment",
+                  "alem.dauletkulov@salement.kz"
                 ]
               }
             }
@@ -681,6 +1202,43 @@
               "credit": {
                 "director": [
                   "Emin ALPER 에민 알페르"
+                ],
+                "producer": [
+                  "Nadir ÖPERLI"
+                ],
+                "cast": [
+                  "Caner CINDORUK",
+                  "Berkay ATEŞ",
+                  "Feyyaz DUMAN",
+                  "Naz GÖKTAN",
+                  "Özlem TAŞ"
+                ],
+                "screenplay": [
+                  "Emin ALPER"
+                ],
+                "cinematography": [
+                  "Ahmet SESIGÜRGIL",
+                  "Barış AYGEN"
+                ],
+                "productionDesign": [
+                  "Nadide ARGUN VAN UDEN"
+                ],
+                "editor": [
+                  "Özcan VARDAR"
+                ],
+                "music": [
+                  "Christiaan VERBEEK"
+                ],
+                "sound": [
+                  "Nardi VAN DIJK"
+                ],
+                "productionCompany": [
+                  "Liman Film",
+                  "nadir.operli@limanfilm.com"
+                ],
+                "worldSales": [
+                  "Lucky Number",
+                  "sales@luckynumber.fr"
                 ]
               }
             }
@@ -723,6 +1281,43 @@
               "credit": {
                 "director": [
                   "KIM Jung-hoon 김정훈"
+                ],
+                "assistantDirector​": [
+                  "Woncheon BAE 배원천"
+                ],
+                "producer": [
+                  "Heesung HAN 한희성"
+                ],
+                "cast": [
+                  "Jeong-eui ROH 노정의",
+                  "Show KASAMATSU 카사마츠 쇼",
+                  "Yo-han BYUN 변요한",
+                  "Ryu-jin SHIN 신류진"
+                ],
+                "screenplay": [
+                  "Seong-yoon HONG 홍성윤",
+                  "Dohyeon ROH 노도현"
+                ],
+                "cinematography": [
+                  "Grim JUNG 정그림"
+                ],
+                "editor": [
+                  "Junghwan PARK 박정환"
+                ],
+                "music": [
+                  "DPR  디피알"
+                ],
+                "supervisingProducer": [
+                  "Hannah LEE 이한나",
+                  "Chanhee LEE 이찬희"
+                ],
+                "productionCompany": [
+                  "Starplatinum",
+                  "hannahly@naver.com"
+                ],
+                "worldSales": [
+                  "CONTENTS PANDA (NEW)",
+                  "gayeon@contentspanda.com"
                 ]
               }
             }
@@ -760,6 +1355,39 @@
               "credit": {
                 "director": [
                   "OKITA Shuichi 오키타 슈이치"
+                ],
+                "producer": [
+                  "Ryohei TSUTSUI",
+                  "Miyuki SATO",
+                  "Suguru KUBOTA",
+                  "Yuya TANAKA"
+                ],
+                "cast": [
+                  "Kasumi ARIMURA",
+                  "Hikari ISHIDA",
+                  "Kashun HIMENO"
+                ],
+                "screenplay": [
+                  "Shuichi OKITA"
+                ],
+                "cinematography": [
+                  "Akiko ASHIZAWA"
+                ],
+                "editor": [
+                  "Masaya OZAKI"
+                ],
+                "music": [
+                  "Satoko SHIBATA"
+                ],
+                "sound": [
+                  "Takaaki YAMAMOTO"
+                ],
+                "productionCompany": [
+                  "AMUSE CREATIVE STUDIO"
+                ],
+                "worldSales": [
+                  "Hakuhodo DY Music & Pictures",
+                  "isales-movie@hakuhodody-map.jp"
                 ]
               }
             }
@@ -798,6 +1426,34 @@
               "credit": {
                 "director": [
                   "Eddie CAHYONO 에디 카효노"
+                ],
+                "executiveProducer": [
+                  "Aris NUGRAHA",
+                  "Zunan FARID"
+                ],
+                "producer": [
+                  "Tika BRAVANI",
+                  "Shin YAMAGUCHI"
+                ],
+                "cast": [
+                  "Christine HAKIM",
+                  "Ayushita NUGRAHA",
+                  "Landung SIMATUPANG"
+                ],
+                "cinematography": [
+                  "Muhammad FIRDAUS¸ ICS"
+                ],
+                "editor": [
+                  "Greg ARYA"
+                ],
+                "music": [
+                  "Krisna PURNA"
+                ],
+                "productionCompany": [
+                  "Talenta Media",
+                  "bravanisocialmedia@gmail.com",
+                  "KNOCKONWOOD",
+                  "guccie@knockonwood.jp"
                 ]
               }
             }
@@ -836,6 +1492,28 @@
               "credit": {
                 "director": [
                   "YOUM Kyubock 염규복"
+                ],
+                "executiveProducer": [
+                  "Kyounghee JUNG 정경희"
+                ],
+                "co-producer​": [
+                  "Sangyoun KIM 김상윤"
+                ],
+                "cast": [
+                  "Suzy  수지",
+                  "Kiwook PARK 박기욱",
+                  "Gyuna KIM 김규나",
+                  "Sanghyun UM 엄상현",
+                  "Junghwan SO 소정환",
+                  "Taeyeol JEON 전태열"
+                ],
+                "productionCompany": [
+                  "GoogGoog Studio",
+                  "googgoog_2013@daum.net"
+                ],
+                "worldSales": [
+                  "FINECUT",
+                  "dmpark@finecut.co.kr"
                 ]
               }
             }
@@ -877,6 +1555,40 @@
               "credit": {
                 "director": [
                   "Marie-Clémentine DUSABEJAMBO 마리클레망틴 두사베잠보"
+                ],
+                "producer": [
+                  "Samantha BIFFOT",
+                  "Marie Epiphanie UWAYEZU",
+                  "Pierre-Adrien CECCALDI"
+                ],
+                "cast": [
+                  "Clémentine U. NYIRINKINDI",
+                  "Kesia Kelly NISHIMWE",
+                  "Arivere KAGOYIRE",
+                  "Isabelle KABANO"
+                ],
+                "cinematography": [
+                  "Mostafa EL KASHEF"
+                ],
+                "productionDesign": [
+                  "Ricardo SANKARA"
+                ],
+                "editor": [
+                  "Nadia BEN RACHID"
+                ],
+                "music": [
+                  "Igor MABANO"
+                ],
+                "sound": [
+                  "Eugène SAFALI"
+                ],
+                "productionCompany": [
+                  "Ejo Cine Ltd",
+                  "Ogweli Productions"
+                ],
+                "worldSales": [
+                  "MK2",
+                  "anne-laure.barbarit@mk2.com"
                 ]
               }
             }
@@ -919,6 +1631,22 @@
               "credit": {
                 "director": [
                   "Anthony MARAS 앤서니 마라스"
+                ],
+                "producer": [
+                  "Tim BEVAN"
+                ],
+                "cast": [
+                  "Andrew SCOTT",
+                  "Brendan FRASER",
+                  "Kerry CONDON",
+                  "Chris MESSINA",
+                  "Damian LEWIS"
+                ],
+                "productionCompany": [
+                  "Studio Canal"
+                ],
+                "worldSales": [
+                  "Studio Canal"
                 ]
               }
             }
@@ -956,6 +1684,43 @@
               "credit": {
                 "director": [
                   "Jordan FIRSTMAN 조던 퍼스트먼"
+                ],
+                "cast": [
+                  "Jordan FIRSTMAN",
+                  "Reggie ABSOLOM",
+                  "Diego CALVA",
+                  "Cara DELEVINGNE",
+                  "Kirby HOWELL-BAPTISE",
+                  "Colleen CAMP",
+                  "Vicki PEPPERDINE",
+                  "Nigil WHYTE",
+                  "Eldar ISGANDAROV",
+                  "Saturn RISIN9"
+                ],
+                "screenplay": [
+                  "Jordan FIRSTMAN"
+                ],
+                "cinematography": [
+                  "Adam NEWPORT-BERRA"
+                ],
+                "productionDesign": [
+                  "Stephen PHELPS"
+                ],
+                "editor": [
+                  "Taylor LEVY",
+                  "Sofia SUBERCASEAUX"
+                ],
+                "music": [
+                  "Cristobal TAPIA DE VEER"
+                ],
+                "costumeDesigner": [
+                  "Emily COSTANTINO"
+                ],
+                "productionCompany": [
+                  "TOPIC STUDIOS"
+                ],
+                "worldSales": [
+                  "A24"
                 ]
               }
             }
@@ -994,6 +1759,38 @@
               "credit": {
                 "director": [
                   "Andrey ZVYAGINTSEV 안드레이 즈뱌긴체프"
+                ],
+                "producer": [
+                  "Charles GILLIBERT"
+                ],
+                "cast": [
+                  "Dmitriy MAZUROV",
+                  "Iris LEBEDEVA",
+                  "Boris KUDRIN",
+                  "Yuriy ZAVALNYOUK"
+                ],
+                "screenplay": [
+                  "Andrey ZVYAGINTSEV",
+                  "Claude CHABROL",
+                  "Simon LYASHENKO"
+                ],
+                "cinematography": [
+                  "Mikhail KRICHMAN"
+                ],
+                "productionDesign": [
+                  "Andrey PONKRATOV",
+                  "Masha SLAVINA"
+                ],
+                "productionCompany": [
+                  "CG Cinéma",
+                  "MK2 Productions",
+                  "Forma Pro Films",
+                  "Razor Film Produktion",
+                  "Arte France Cinéma",
+                  "MK2"
+                ],
+                "worldSales": [
+                  "MK2 Films"
                 ]
               }
             }
@@ -1030,6 +1827,24 @@
               "credit": {
                 "director": [
                   "Rintaro 린타로"
+                ],
+                "executiveProducer": [
+                  "Masamichi FUJIWARA",
+                  "Kazumi KAWASHIRO"
+                ],
+                "producer": [
+                  "Shinji KOMORI"
+                ],
+                "cast": [
+                  "Yuka IMOTO",
+                  "Kei KOBAYASHI",
+                  "Koki OKADA"
+                ],
+                "screenplay": [
+                  "Katsuhiro OTOMO"
+                ],
+                "productionCompany": [
+                  "Tezuka Productions"
                 ]
               }
             }
@@ -1066,6 +1881,49 @@
               "credit": {
                 "director": [
                   "László NEMES 라슬로 네메스"
+                ],
+                "assistantDirector​": [
+                  "Julien DECOIN",
+                  "István KOLOS"
+                ],
+                "producer": [
+                  "Alain GOLDMAN"
+                ],
+                "cast": [
+                  "Gilles LELLOUCHE",
+                  "Lars EIDINGER",
+                  "Louise BOURGOIN",
+                  "Félix LEFEBVRE",
+                  "Max WARBURTON",
+                  "Hortense DE GROMARD"
+                ],
+                "screenplay": [
+                  "Olivier DEMANGEL"
+                ],
+                "cinematography": [
+                  "Mátyás ERDÉLY"
+                ],
+                "productionDesign": [
+                  "Stéphane ROZENBAUM"
+                ],
+                "editor": [
+                  "Peter POLITZER"
+                ],
+                "music": [
+                  "Laetitia PANSANEL-GARRIC"
+                ],
+                "sound": [
+                  "Tamás ZÁNYI"
+                ],
+                "productionCompany": [
+                  "Pitchipoï productions",
+                  "adecis@montmartre.fr",
+                  "Pitchipoï productions",
+                  "agoldman@montmartre.fr"
+                ],
+                "worldSales": [
+                  "193 LEGENDARY",
+                  "pwachsberger@legendary-193.com"
                 ]
               }
             }
@@ -1106,6 +1964,36 @@
               "credit": {
                 "director": [
                   "Arthur HARARI 아르튀르 아라리"
+                ],
+                "producer": [
+                  "Nicolas ANTHOMÉ"
+                ],
+                "cast": [
+                  "Léa SEYDOUX",
+                  "Niels SCHNEIDER"
+                ],
+                "screenplay": [
+                  "Arthur HARARI",
+                  "Lucas HARARI",
+                  "Vincent POYMIRO"
+                ],
+                "cinematography": [
+                  "Tom HARARI"
+                ],
+                "editor": [
+                  "Laurent SÉNÉCHAL"
+                ],
+                "music": [
+                  "Andrea POGGIO"
+                ],
+                "sound": [
+                  "Julien TAN-HAM SICART"
+                ],
+                "productionCompany": [
+                  "bathysphere & To Be Continued"
+                ],
+                "worldSales": [
+                  "Pathé"
                 ]
               }
             }
@@ -1144,6 +2032,42 @@
               "credit": {
                 "director": [
                   "YANG Bo 양보"
+                ],
+                "producer": [
+                  "Xiaofei XU"
+                ],
+                "co-producer​": [
+                  "Fabrice MORIN"
+                ],
+                "cast": [
+                  "Agaar",
+                  "Narenhuar",
+                  "Oyontana",
+                  "Anar",
+                  "Suuntal"
+                ],
+                "cinematography": [
+                  "Bo YANG"
+                ],
+                "editor": [
+                  "Keung CHOW",
+                  "Bo YANG",
+                  "Rodolphe MOLLA"
+                ],
+                "music": [
+                  "Yang BAO"
+                ],
+                "sound": [
+                  "Bruno TARRIÈRE",
+                  "Feng GAO"
+                ],
+                "productionCompany": [
+                  "Shanghai Mind Image Film Productions",
+                  "mindimagefilm@163.com"
+                ],
+                "worldSales": [
+                  "Shanghai Mind Image Film Productions",
+                  "mindimagefilm@163.com"
                 ]
               }
             }
@@ -1181,6 +2105,34 @@
               "credit": {
                 "director": [
                   "Carl Joseph PAPA 칼 조지프 파파"
+                ],
+                "executiveProducer": [
+                  "Annette GOZON-VALDES"
+                ],
+                "producer": [
+                  "Nessa VALDELLON"
+                ],
+                "co-producer​": [
+                  "Jonathan TAM",
+                  "Ian SIMBULAN"
+                ],
+                "cast": [
+                  "Glaiza DE CASTRO",
+                  "Ricky DAVAO",
+                  "Marco MORALES",
+                  "Marco MASA",
+                  "Zyren DELA CRUZ"
+                ],
+                "editor": [
+                  "Benjamin TOLENTINO"
+                ],
+                "productionCompany": [
+                  "GMA NETWORK INC",
+                  "jbtam@gmanetwork.com"
+                ],
+                "worldSales": [
+                  "GMA NETWORK INC",
+                  "jbtam@gmanetwork.com"
                 ]
               }
             }
@@ -1219,6 +2171,34 @@
               "credit": {
                 "director": [
                   "KIM Ji 김지"
+                ],
+                "cast": [
+                  "Jamal AL-NASSERY 자말 알 나세리",
+                  "STOP RWM STOP RWM",
+                  "Cannelle LAVITE 카넬 라비테"
+                ],
+                "cinematography": [
+                  "Emma Rosa SIMON 엠마 로자 시몬",
+                  "Jamal AL-NASSERY 자말 알 나세리",
+                  "Federica ORTU 페데리카 오르투",
+                  "Smina BLUTH 스미나 블룻",
+                  "Grace KIM 김성은",
+                  "Katarzyna MAZU 카타지나 마주르"
+                ],
+                "editor": [
+                  "Ji\t KIM 김지"
+                ],
+                "synchronousRecording": [
+                  "Mad Kate  매드 케이트"
+                ],
+                "productionCompany": [
+                  "Cinema DAL",
+                  "cinemadal@cinemadal.com",
+                  "Mommotty Film"
+                ],
+                "worldSales": [
+                  "Cinema DAL",
+                  "sales@cinemadal.com"
                 ]
               }
             }
@@ -1259,6 +2239,38 @@
               "credit": {
                 "director": [
                   "MIN Hwanki 민환기"
+                ],
+                "assistantDirector​": [
+                  "Daye HONG 홍다예",
+                  "Namhoon KIM 김남훈"
+                ],
+                "producer": [
+                  "Jiwon MOON 문지원",
+                  "Nagyong CHOI 최낙용"
+                ],
+                "co-producer​": [
+                  "Eun LEE 이은"
+                ],
+                "cast": [
+                  "Jaegyu SEO 서재규",
+                  "Rio KANNO 칸노 리오",
+                  "Sou HIROSAWA 히로사와 소우"
+                ],
+                "cinematography": [
+                  "Byunghoon IN 인병훈",
+                  "Juhwan KIM 김주환"
+                ],
+                "productionDesign": [
+                  "Hyunjoo LEE 이현주"
+                ],
+                "editor": [
+                  "Yukyeong CHO 조유경"
+                ],
+                "productionCompany": [
+                  "CINEMA6411",
+                  "cinema6411@gmail.com",
+                  "MYUNGFILMS",
+                  "0mf-art@myungfilm.com"
                 ]
               }
             }
@@ -1288,13 +2300,51 @@
                   "Korea"
                 ],
                 "yearOfProduction": "2026",
-                "length": "100min",
+                "length": "90min",
                 "format": "DCP",
                 "color": "Color/B&W"
               },
               "credit": {
                 "director": [
-                  "LIM Sunae 임선애"
+                  "LIM Sun-ae 임선애"
+                ],
+                "assistantDirector​": [
+                  "Jihwan AHN 안지환"
+                ],
+                "executiveProducer": [
+                  "Jeesook BECK 백지숙",
+                  "Soonmin CHONG 정순민"
+                ],
+                "producer": [
+                  "Min-kyung(mk) KIM 김민경"
+                ],
+                "cast": [
+                  "Yunshin KIM 김윤신",
+                  "Ran KIM 김란"
+                ],
+                "cinematography": [
+                  "Bora KIM 김보라"
+                ],
+                "productionDesign": [
+                  "Ye-seul HANJU 한주예슬"
+                ],
+                "editor": [
+                  "Sun-ae LIM 임선애",
+                  "Hanna JO 조한나",
+                  "Uiryeol LEE 이의렬"
+                ],
+                "music": [
+                  "Narae CHUNG 정나래"
+                ],
+                "productionCompany": [
+                  "BANDAL Corp",
+                  "bandaldoc.mk@gmail.com",
+                  "PRODUCTION PIEDS-JOINTS",
+                  "ondoos@gmail.com"
+                ],
+                "worldSales": [
+                  "PRODUCTION PIEDS-JOINTS",
+                  "ondoos@gmail.com"
                 ]
               }
             }
@@ -1330,6 +2380,37 @@
               "credit": {
                 "director": [
                   "AHN Jee-hwan 안지환"
+                ],
+                "producer": [
+                  "Il-kwon KIM 김일권"
+                ],
+                "cast": [
+                  "Ung JOH 조웅",
+                  "Joo-hyun YU 유주현",
+                  "Gi-hak LEE 이기학",
+                  "Jee-hyang LEE 이지향",
+                  "Hong-in AHN 안홍인",
+                  "Jeong-wook KIM 김정욱"
+                ],
+                "cinematography": [
+                  "Byung-woo AHN 안병우"
+                ],
+                "editor": [
+                  "Hee-young SOHN 손희영"
+                ],
+                "music": [
+                  "Goonamgua yeo riding Stellar  구남과여라이딩스텔라"
+                ],
+                "liveRecording": [
+                  "Ji-hwan HWANG 황지환"
+                ],
+                "productionCompany": [
+                  "Cinema DAL",
+                  "cinemadal@cinemadal.com"
+                ],
+                "worldSales": [
+                  "Cinema DAL",
+                  "sales@cinemadal.com"
                 ]
               }
             }
@@ -1372,6 +2453,32 @@
                   "Seven YCH 세븐 YCH",
                   "Rady FU 레이디 푸",
                   "Tree MUTA 트리 무타"
+                ],
+                "executiveProducer": [
+                  "DENNIS WU",
+                  "SEVEN YCH"
+                ],
+                "producer": [
+                  "RICHARD CHOU",
+                  "ECHO FENG",
+                  "PANDA CHEN"
+                ],
+                "cast": [
+                  "AI-NING YAO",
+                  "BRUCE CHIU",
+                  "TERESA DALEY"
+                ],
+                "screenplay": [
+                  "RADY FU",
+                  "SEVEN YCH"
+                ],
+                "productionCompany": [
+                  "DEEP SKY OBJECT CO., LTD.",
+                  "tstimes.seven@gmail.com"
+                ],
+                "worldSales": [
+                  "Mokster Films",
+                  "hello@moksterfilms.com"
                 ]
               }
             }
@@ -1413,6 +2520,42 @@
               "credit": {
                 "director": [
                   "KIM Sung-yoon 김성윤"
+                ],
+                "executiveProducer": [
+                  "Na-ra LEE 이나라"
+                ],
+                "producer": [
+                  "Sang-wook HAN 한상욱"
+                ],
+                "co-producer​": [
+                  "Hyo-jung SONG 송효정",
+                  "Yun-sik YANG 양윤식"
+                ],
+                "cast": [
+                  "Jae-young JUNG 정재영",
+                  "Yi-kyung LEE 이이경",
+                  "Joo-ryoung KIM 김주령",
+                  "Ah-young KIM 김아영",
+                  "Soon-won LEE 이순원"
+                ],
+                "screenplay": [
+                  "Sung-yoon KIM 김성윤"
+                ],
+                "cinematography": [
+                  "Ji-hoon LEE 이지훈"
+                ],
+                "productionDesign": [
+                  "Sung-hyun KIM 김성현"
+                ],
+                "editor": [
+                  "Hyun-gun AHN 안현건"
+                ],
+                "music": [
+                  "Yong KIM 김용"
+                ],
+                "productionCompany": [
+                  "Stonev studio",
+                  "giclh@naver.com"
                 ]
               }
             }
@@ -1449,6 +2592,51 @@
               "credit": {
                 "director": [
                   "SONG Il-gon 송일곤"
+                ],
+                "executiveProducer": [
+                  "Kyung-chan MIN 민경찬"
+                ],
+                "producer": [
+                  "Jae-yun CHUNG 정재연"
+                ],
+                "co-producer​": [
+                  "Il-gon SONG 송일곤"
+                ],
+                "cast": [
+                  "Hye-ja KIM 김혜자",
+                  "Seo-kyung PARK 박서경",
+                  "Ju-eun CHOI 최주은",
+                  "Seong-hyun MOON 문성현",
+                  "Mi-kyung CHA 차미경",
+                  "Seyoung LEE 이세영",
+                  "Seong-ha CHO 조성하",
+                  "Hyun-sung JANG 장현성",
+                  "Young-woo CHOI 최영우",
+                  "Kwang-oup SON 손광업"
+                ],
+                "screenplay": [
+                  "Hye-sook LEE 이혜숙"
+                ],
+                "cinematography": [
+                  "Young-jun PARK 박영준",
+                  "Dong-hyuk KIM 김동혁"
+                ],
+                "productionDesign": [
+                  "Hyun-chu LEE 이현주"
+                ],
+                "editor": [
+                  "Hyun-ju JO 조현주"
+                ],
+                "music": [
+                  "Ji-hye KIM 김지혜"
+                ],
+                "productionCompany": [
+                  "PAGE ONE FILM Co.¸ Ltd.",
+                  "tsmaru26@gmail.com"
+                ],
+                "worldSales": [
+                  "M-Line Distribution",
+                  "sales@mline-distribution.com"
                 ]
               }
             }
@@ -1487,6 +2675,27 @@
               "credit": {
                 "director": [
                   "Anuruddha JAYASINGHA 아누룻다 자야싱하"
+                ],
+                "producer": [
+                  "Victor GAMAGE",
+                  "Niran PERERA"
+                ],
+                "cast": [
+                  "Thumindu DODANTHENNA",
+                  "Uma ASENI",
+                  "Priyantha SIRIKUMARA"
+                ],
+                "screenplay": [
+                  "Namal JAYASINGHE"
+                ],
+                "cinematography": [
+                  "Chris JOYS"
+                ],
+                "editor": [
+                  "Chandana LIYANAGE"
+                ],
+                "productionCompany": [
+                  "Madara Productions"
                 ]
               }
             }
@@ -1527,6 +2736,43 @@
               "credit": {
                 "director": [
                   "Amie SONG 에이미 송"
+                ],
+                "executiveProducer": [
+                  "Anocha SUWICHAKORNPONG"
+                ],
+                "producer": [
+                  "Joyce Yueyi XING"
+                ],
+                "cast": [
+                  "Ling HU",
+                  "Audrey ZHANG",
+                  "Wei WU",
+                  "Xuanyu CHEN",
+                  "Maiqi WANG",
+                  "Alina Marie CHANG"
+                ],
+                "screenplay": [
+                  "Amie SONG"
+                ],
+                "cinematography": [
+                  "Parinee BUTHRASRI"
+                ],
+                "productionDesign": [
+                  "Yican ZHENG"
+                ],
+                "editor": [
+                  "Amie SONG",
+                  "Mengsheng Valen ZENG"
+                ],
+                "music": [
+                  "Yifeng Yvonne YUAN"
+                ],
+                "sound": [
+                  "Yancheng ZHANG"
+                ],
+                "productionCompany": [
+                  "Osmanthus Studios LLC",
+                  "osmanthusstudios@gmail.com"
                 ]
               }
             }
@@ -1567,6 +2813,32 @@
                 "director": [
                   "Janay BOULOS 자나이 불로스",
                   "Abd ALKADER HABAK 압드 알카데르 하바크"
+                ],
+                "executiveProducer": [
+                  "Claire FERGUSON"
+                ],
+                "producer": [
+                  "Janay BOULOS",
+                  "Abd ALKADER HABAK",
+                  "Sonja HENRICI"
+                ],
+                "editor": [
+                  "Will HEWITT",
+                  "Tanya SINGH"
+                ],
+                "music": [
+                  "Harpal MUDHAR",
+                  "Darren SNG"
+                ],
+                "productionCompany": [
+                  "Habak Films Ltd",
+                  "info@habakfilms.com",
+                  "Sonja Henrici Creates Ltd",
+                  "contact@sonjahenrici.com"
+                ],
+                "worldSales": [
+                  "Dogwoof",
+                  "Tom@dogwoof.com"
                 ]
               }
             }
@@ -1612,6 +2884,52 @@
               "credit": {
                 "director": [
                   "Phuttiphong AROONPHENG 푸티퐁 아룬펭"
+                ],
+                "producer": [
+                  "Mai MEKSAWAN",
+                  "Bee Thiam TAN",
+                  "Ola BYSZUK",
+                  "Anouk SLUIZER"
+                ],
+                "cast": [
+                  "Awat RATANAPINTHA",
+                  "Pakapol SRIRONGMUANG",
+                  "Waywiree ITTIANUNKUL",
+                  "Thanatwut RODPAI",
+                  "Phunthida PHAIRUANGKIJ",
+                  "Teerawat MULVILAI",
+                  "Gandhi WASUVITCHAYAGIT"
+                ],
+                "screenplay": [
+                  "Phuttiphong AROONPHENG"
+                ],
+                "cinematography": [
+                  "Emo WEEMHOFF (NSC)"
+                ],
+                "productionDesign": [
+                  "Sarawut KARWNAMYEN",
+                  "Wan Ping LOOI"
+                ],
+                "editor": [
+                  "Daniel HUI"
+                ],
+                "music": [
+                  "Christine OTT",
+                  "Mathieu GABRY"
+                ],
+                "sound": [
+                  "Chalermrat KAWEEWATTA"
+                ],
+                "productionCompany": [
+                  "Diversion",
+                  "films@diverson-th.com",
+                  "13 Little Pictures",
+                  "Nord-Ouest Films",
+                  "Sluizer Film Productions"
+                ],
+                "worldSales": [
+                  "Lucky Number",
+                  "sales@luckynumber.fr"
                 ]
               }
             }
@@ -1631,26 +2949,9 @@
               "title": "나무는 태어난 곳에서 죽는다",
               "titleEng": "Revolving Lanterns",
               "url": "https://www.biff.kr/kor/html/program/prog_view.asp?idx=86416&c_idx=436",
-              "desc": "눈발이 날리는 칠흑 같은 밤을 뚫고 자동차 한 대가 깊은 산골 마을로 들어온다. 후쿠시마의 산악 지대에 자리 잡은 오쿠가와 마을. 남자는 이곳이 고향이다. 지속적인 인구 감소로 500명의 노인만 남은, 사라져가는 마을에서 남자는 새로운 집을 짓기 시작한다. <나무는 태어난 곳에서 죽는다>는 ‘완전히 시간이 멈춘 듯한 곳’의 몇 계절을 담았다. “우리의 행복은 느리게 살아가는 데 있어.” 여기서 태어나고 자라 아마도 여기서 죽음을 맞을 그들은 느리지만 꾸준한 일과로 하루를 채운다. 마쓰이 이타루 감독은 그 단순한 삶의 고요한 아름다움을 목가적인 삶의 방식으로 이상화하지 않는다. 대신 그는 아무런 사건도 일어나지 않는 이들 삶의 풍경을 섬세하고 고유한 영화적인 감각으로 그려내는 데 몰두한다. 사실, 집 짓는 남자의 이야기도 아니다. 계절과 날씨와 하루의 일출 일몰이 빚어내는 변화 속에서 노동과 식사로 채워진 일상의 운율이 살아나는, 그것으로 온전히 아름다운 영화다. (강소원)",
-              "info": {
-                "genre": [
-                  "실화바탕",
-                  "자연/환경/동식물"
-                ],
-                "productionCountry": [
-                  "Japan",
-                  "United States"
-                ],
-                "yearOfProduction": "2026",
-                "length": "113min",
-                "format": "DCP",
-                "color": "Color"
-              },
-              "credit": {
-                "director": [
-                  "MATSUI Itaru 마쓰이 이타루"
-                ]
-              }
+              "desc": null,
+              "info": null,
+              "credit": null
             }
           ]
         },
@@ -1684,6 +2985,34 @@
               "credit": {
                 "director": [
                   "CHOI Se-dam 최세담"
+                ],
+                "producer": [
+                  "Il-kwon KIM 김일권",
+                  "Jee-hwan AHN 안지환"
+                ],
+                "cast": [
+                  "Young-ja YOON 윤영자",
+                  "Won-chun KANG 강원춘",
+                  "Mi-ra KANG 강미라",
+                  "Shin-hoon KANG 강신훈",
+                  "Se-jeong OH 오세정"
+                ],
+                "cinematography": [
+                  "Se-dam CHOI 최세담",
+                  "Jee-hwan AHN 안지환",
+                  "In-bum\t KIM 김인범"
+                ],
+                "editor": [
+                  "Se-dam CHOI 최세담"
+                ],
+                "productionCompany": [
+                  "Pado Film",
+                  "Cinema DAL",
+                  "cinemadal@cinemadal.com"
+                ],
+                "worldSales": [
+                  "Cinema DAL",
+                  "sales@cinemadal.com"
                 ]
               }
             }
@@ -1721,6 +3050,37 @@
               "credit": {
                 "director": [
                   "SATO Sakichi 사토 사키치"
+                ],
+                "producer": [
+                  "Yasushi UTAGAWA",
+                  "Hitoshi NUNOKAWA",
+                  "Yusuke TAGUCHI"
+                ],
+                "cast": [
+                  "Ryuhei MARUYAMA",
+                  "Erika SAWAJIRI"
+                ],
+                "screenplay": [
+                  "Seiji TANAKA"
+                ],
+                "cinematography": [
+                  "Masaki WATANABE"
+                ],
+                "productionDesign": [
+                  "Akira ISHIGE"
+                ],
+                "editor": [
+                  "Naoichiro SAGARA"
+                ],
+                "music": [
+                  "Kazuyoshi SAITO"
+                ],
+                "sound": [
+                  "Masaya KUSAKABE"
+                ],
+                "productionCompany": [
+                  "dub inc.",
+                  "utagawa@dub.co.jp"
                 ]
               }
             }
@@ -1772,6 +3132,42 @@
               "credit": {
                 "director": [
                   "LÊ Bảo 레바오"
+                ],
+                "cast": [
+                  "Quốc Tuấn NGUYỄN",
+                  "Tản NGỌC",
+                  "Huyền KHÁNH",
+                  "Quyên TIỂU",
+                  "Hùng MINH",
+                  "Công Uẩn NGUYỄN",
+                  "Anh Dũng TRẦN",
+                  "Hà VÂN",
+                  "Linh CHÍ",
+                  "Võ LILAM"
+                ],
+                "cinematography": [
+                  "Vinh Phúc NGUYỄN"
+                ],
+                "productionDesign": [
+                  "Văn Thanh LÊ"
+                ],
+                "editor": [
+                  "Carlo Francisco MANATAD",
+                  "Dounia SICHOV"
+                ],
+                "music": [
+                  "Mental OVERDRIVE"
+                ],
+                "sound": [
+                  "Vincent VILLA"
+                ],
+                "productionCompany": [
+                  "E&W Films",
+                  "weijie@ewfilms.com.sg"
+                ],
+                "worldSales": [
+                  "Heretic",
+                  "festivals@heretic.gr"
                 ]
               }
             }
@@ -1809,6 +3205,31 @@
               "credit": {
                 "director": [
                   "KIM Miyoung 김미영"
+                ],
+                "producer": [
+                  "Miyoung KIM 김미영"
+                ],
+                "cast": [
+                  "Yuha LEE 이유하",
+                  "Myungjo YOO 유명조",
+                  "Heejin CHOI 최희진",
+                  "Jong-hwan PARK 박종환",
+                  "Junwhee JANG 장준휘",
+                  "Eunhoo HWANG 황은후"
+                ],
+                "lineProducer": [
+                  "Jinhyuk JANG 장진혁"
+                ],
+                "cinematography": [
+                  "Soohwan PARK 박수환"
+                ],
+                "productionCompany": [
+                  "Bori & Odi Film",
+                  "faces.ourmusic@gmail.com"
+                ],
+                "worldSales": [
+                  "INDIESTORY INC.  INT'L SALES & DISTRIBUTION COMPANY OF  KOREAN INDEPENDENT FILMS",
+                  "global01@indeistory.com"
                 ]
               }
             }
@@ -1845,6 +3266,26 @@
               "credit": {
                 "director": [
                   "OH Sehyeon 오세현"
+                ],
+                "executiveProducer": [
+                  "Lu ZHANG 장률"
+                ],
+                "producer": [
+                  "Yoohee KO 고유희"
+                ],
+                "cast": [
+                  "Seul-ki KIM 김슬기",
+                  "Ji-hyeon WOO 우지현"
+                ],
+                "cinematography": [
+                  "Ji-soo BYUN 변지수"
+                ],
+                "productionDesign": [
+                  "Cho-hea KIM 김초혜"
+                ],
+                "productionCompany": [
+                  "LuFilm",
+                  "lufilm@naver.com"
                 ]
               }
             }
@@ -1882,6 +3323,44 @@
               "credit": {
                 "director": [
                   "KIM Hyomi 김효미"
+                ],
+                "assistantDirector​": [
+                  "Yu-hyun CHUN 전유현",
+                  "Jin-wook CHOI 최진욱"
+                ],
+                "producer": [
+                  "Chan-heum YEON 연찬흠",
+                  "Hyomi KIM 김효미"
+                ],
+                "cast": [
+                  "Ji-in JEONG 정지인",
+                  "Do-ha BEOM 범도하",
+                  "Dha-sol KIM 김다솔",
+                  "Kyoung-do LEE 이경도"
+                ],
+                "screenplay": [
+                  "Hyomi KIM 김효미"
+                ],
+                "cinematography": [
+                  "Hyomi KIM 김효미"
+                ],
+                "editor": [
+                  "Hyomi KIM 김효미"
+                ],
+                "music": [
+                  "Dong-wook KIM 김동욱",
+                  "Geon-ho LEE 이건호"
+                ],
+                "sound": [
+                  "Ju-suk LEE 이주석"
+                ],
+                "productionCompany": [
+                  "Korean Academy of Film Arts",
+                  "kkseoyeon@kofic.or.kr"
+                ],
+                "worldSales": [
+                  "M-Line Distribution",
+                  "emily@mline-distribution.com"
                 ]
               }
             }
@@ -1916,6 +3395,41 @@
               "credit": {
                 "director": [
                   "Alain CAVALIER 알랭 카발리에"
+                ],
+                "producer": [
+                  "Michel SEYDOUX"
+                ],
+                "cast": [
+                  "Alain CAVALIER",
+                  "Françoise WIDHOFF",
+                  "Vincent LINDON",
+                  "Nine D'URSO",
+                  "Manolo MARTY",
+                  "Gilles JACOB",
+                  "Emmanuèle BERNHEIM",
+                  "Suzanne ANGEVIN",
+                  "Corinne ANGEVIN",
+                  "Caroline CARTIER"
+                ],
+                "screenplay": [
+                  "Alain CAVALIER"
+                ],
+                "cinematography": [
+                  "Alain CAVALIER"
+                ],
+                "editor": [
+                  "Emmanuel MANZANO"
+                ],
+                "sound": [
+                  "Steve RACCAH"
+                ],
+                "productionCompany": [
+                  "CAMERA ONE",
+                  "matheo@camera-one.com"
+                ],
+                "worldSales": [
+                  "CAMERA ONE",
+                  "matheo@camera-one.com"
                 ]
               }
             }
@@ -1957,6 +3471,35 @@
               "credit": {
                 "director": [
                   "Pedro ALMODÓVAR 페드로 알모도바르"
+                ],
+                "producer": [
+                  "Esther GARCÍA",
+                  "Agustín ALMODÓVAR"
+                ],
+                "cast": [
+                  "Bárbara LENNIE",
+                  "Leonardo SBARAGLIA",
+                  "Aitana SÁNCHEZ-GIJÓN"
+                ],
+                "screenplay": [
+                  "Pedro ALMODÓVAR"
+                ],
+                "cinematography": [
+                  "Pau ESTEVE BIRBA"
+                ],
+                "editor": [
+                  "Teresa FONT"
+                ],
+                "music": [
+                  "Alberto INGLESIAS"
+                ],
+                "productionCompany": [
+                  "EL DESEO",
+                  "eldeseo@eldeseo.es"
+                ],
+                "worldSales": [
+                  "Film Factory Entertainment",
+                  "info@filmfactory.es"
                 ]
               }
             }
@@ -1998,6 +3541,34 @@
               "credit": {
                 "director": [
                   "Konstantina KOTZAMANI 콘스탄티나 코자마니"
+                ],
+                "cast": [
+                  "Arisa SASAKI",
+                  "Melina MARDINI",
+                  "Haruna MATSUI",
+                  "Kotone HANASE",
+                  "Hanna MURO",
+                  "Riku NAKAMURA",
+                  "Aki KIGOSHI",
+                  "Masahiro HIGASHIDE",
+                  "Sei MATOBU"
+                ],
+                "screenplay": [
+                  "Konstantina KOTZAMANI"
+                ],
+                "cinematography": [
+                  "Raphaël VANDENBUSSCHE"
+                ],
+                "productionDesign": [
+                  "Sebastian VOGLER"
+                ],
+                "productionCompany": [
+                  "Homemade Films",
+                  "maria@homemadefilms.gr"
+                ],
+                "worldSales": [
+                  "Paradise City Sales",
+                  "festival@paradisecity-films.com"
                 ]
               }
             }
@@ -2035,6 +3606,50 @@
               "credit": {
                 "director": [
                   "Grzegorz DĘBOWSKI 그제고시 뎅보프스키"
+                ],
+                "cast": [
+                  "Monika Sabina KWIATKOWSKA",
+                  "Robert MANIA",
+                  "Ewa PAJĄK",
+                  "Martyna ROZWADOWSKA",
+                  "Jadwiga GRYGIERCZYK"
+                ],
+                "screenplay": [
+                  "Grzegorz DĘBOWSKI"
+                ],
+                "cinematography": [
+                  "Stanisław HORDECKI"
+                ],
+                "productionDesign": [
+                  "Maja PAWLIKOWSKA-KOBYLIŃSKA"
+                ],
+                "editor": [
+                  "Anna GARNCARCZYK"
+                ],
+                "sound": [
+                  "Przemysław DZIĘGIEL"
+                ],
+                "costumeDesign": [
+                  "Magdalena SEKRECKA"
+                ],
+                "casting": [
+                  "Grzegorz DĘBOWSKI",
+                  "Agnieszka SKALSKA"
+                ],
+                "hair&Makeup": [
+                  "Kalina STACHERA"
+                ],
+                "productionCompany": [
+                  "Blue Onion",
+                  "agnieszkaannaskalska@gmail.com",
+                  "Mazovia Warsaw Film Fund",
+                  "Podkarpackie Regional Film Fund",
+                  "Koi Studio Color Pro",
+                  "Ucho Studio"
+                ],
+                "worldSales": [
+                  "New Europe Film Sales",
+                  "natalia@neweuropefilmsales.com"
                 ]
               }
             }
@@ -2076,6 +3691,38 @@
               "credit": {
                 "director": [
                   "Manuela MARTELLI 마누엘라 마르텔리"
+                ],
+                "producer": [
+                  "Alejandra GARCÍA",
+                  "Alex C. LO",
+                  "Andrés WOOD"
+                ],
+                "cast": [
+                  "Maya O'ROURKE",
+                  "Saskia ROSENDAHL",
+                  "Maia RAE DOMAGALA",
+                  "Jakub GIERSZAL"
+                ],
+                "screenplay": [
+                  "Manuela MARTELLI"
+                ],
+                "cinematography": [
+                  "Benjamín ECHAZARRETA"
+                ],
+                "productionDesign": [
+                  "Nohemí GONZÁLEZ"
+                ],
+                "editor": [
+                  "Yibrán ASUAD"
+                ],
+                "music": [
+                  "Mariá PORTUGAL"
+                ],
+                "productionCompany": [
+                  "RONDA CINE"
+                ],
+                "worldSales": [
+                  "Losange Films"
                 ]
               }
             }
@@ -2114,6 +3761,40 @@
               "credit": {
                 "director": [
                   "Louis CLICHY 루이 클리시"
+                ],
+                "producer": [
+                  "Céline VANLINT",
+                  "Nicolas DE ROSANBO"
+                ],
+                "cast": [
+                  "Gary CLICHY",
+                  "Rod PARADOT",
+                  "Dimitri COLAS",
+                  "Aurélie VASSORT",
+                  "Brune MOULIN",
+                  "Alexandre ASTIER",
+                  "Jean-Pascal ZADI"
+                ],
+                "screenplay": [
+                  "Louis CLICHY",
+                  "Franck SALOMÉ"
+                ],
+                "productionDesign": [
+                  "Cécile GUILLARD"
+                ],
+                "editor": [
+                  "Vincent TRICON"
+                ],
+                "sound": [
+                  "Olivier GUILLAUME",
+                  "Selim AZAZI"
+                ],
+                "productionCompany": [
+                  "EDDY CINEMA",
+                  "Louise@playtime.group"
+                ],
+                "worldSales": [
+                  "PLAYTIME"
                 ]
               }
             }
@@ -2155,6 +3836,30 @@
               "credit": {
                 "director": [
                   "NONG Nhat Quang 농낫꽝"
+                ],
+                "producer": [
+                  "Trang DAO THI MINH",
+                  "Sarah KANG",
+                  "Heejung OH"
+                ],
+                "cast": [
+                  "Nhat Quang NONG",
+                  "Thi Ngoc Mai NONG",
+                  "Thi Kim Cuc DO"
+                ],
+                "editor": [
+                  "Hankyeol LEE",
+                  "Linh DN"
+                ],
+                "productionCompany": [
+                  "Seesaw Pictures",
+                  "<sarah.kang@seesawpics.com>",
+                  "Flâneur Films",
+                  "<trangdao911@gmail.com>"
+                ],
+                "worldSales": [
+                  "Luminalia",
+                  "tommaso@luminaliafilm.com"
                 ]
               }
             }
@@ -2194,6 +3899,40 @@
               "credit": {
                 "director": [
                   "Marjan KHOSRAVI 마르잔 호스로비"
+                ],
+                "producer": [
+                  "Milad KHOSRAVI",
+                  "Thibaut Amri",
+                  "Stephanie VON LUKOWICZ"
+                ],
+                "cast": [
+                  "Samaneh SHAHROKHI",
+                  "Mohammad SHAHROKHI",
+                  "Fariba SARLAK"
+                ],
+                "cinematography": [
+                  "Reza Yazdanian"
+                ],
+                "editor": [
+                  "Jack Atmore",
+                  "Ehsan Vaseghi"
+                ],
+                "writer": [
+                  "Marjan KHOSRAVI"
+                ],
+                "soundDesignandMix": [
+                  "Jocelyn Robert"
+                ],
+                "co-producercompany": [
+                  "Lyon Capitale TV"
+                ],
+                "productionCompany": [
+                  "Seven Springs Pictures",
+                  "7springs.contact@gmail.com"
+                ],
+                "worldSales": [
+                  "Seven Springs Pictures",
+                  "7springs.contact@gmail.com"
                 ]
               }
             }
@@ -2223,7 +3962,7 @@
                   "Kazakhstan"
                 ],
                 "yearOfProduction": "2026",
-                "length": "87min",
+                "length": "85min",
                 "format": "DCP",
                 "color": "Color"
               },
@@ -2231,6 +3970,41 @@
                 "director": [
                   "Yerlan NURMUKHAMBETOV 예를란 누르무함베토프",
                   "Nursultan NUSKABEKOV 누르술탄 누스카베코프"
+                ],
+                "assistantDirector​": [
+                  "Abay SYZDYKOV"
+                ],
+                "producer": [
+                  "Yuliya KIM",
+                  "Bauyrzhan NURKEYEV",
+                  "Zhumakyz VALERIEVNA",
+                  "Sanurzhan SULEIMEN",
+                  "Anel DONENBAY"
+                ],
+                "cast": [
+                  "Yerlan NURMUKHAMBETOV",
+                  "Zhanar SHOKPANOVA",
+                  "Olzhas MARAT",
+                  "Aida MARAT",
+                  "Aruzhan MARAT",
+                  "Aiman NURMUKHAMBET",
+                  "Altay-Bakhtiyar MARAT"
+                ],
+                "cinematography": [
+                  "Doskhan UAKHITOV"
+                ],
+                "productionDesign": [
+                  "Marat IMANBERGEN"
+                ],
+                "music": [
+                  "Aigerim MAKEN"
+                ],
+                "sound": [
+                  "Nikita ARTYUKHOV"
+                ],
+                "productionCompany": [
+                  "Xaiku Production",
+                  "kzf.kim@gmail.com"
                 ]
               }
             }
@@ -2269,6 +4043,27 @@
               "credit": {
                 "director": [
                   "Vishwendra SINGH 비슈웬드라 싱"
+                ],
+                "executiveProducer": [
+                  "Ashim AHLUWALIA"
+                ],
+                "producer": [
+                  "Niharika SINGH",
+                  "Faraz KHAN",
+                  "Prayas DEEPTI"
+                ],
+                "cast": [
+                  "Nilesh RAI",
+                  "Bhawana RAI",
+                  "Suman RAI"
+                ],
+                "productionCompany": [
+                  "Future East Film",
+                  "niharika@futureeast.com"
+                ],
+                "worldSales": [
+                  "Future East Film",
+                  "niharika@futureeast.com"
                 ]
               }
             }
@@ -2310,6 +4105,36 @@
               "credit": {
                 "director": [
                   "SHIN Sun 신선"
+                ],
+                "producer": [
+                  "Sun SHIN 신선",
+                  "Hanbitnara PARK 박한빛나라"
+                ],
+                "cast": [
+                  "Hanbitnara PARK 박한빛나라",
+                  "Seong-guk HA 하성국",
+                  "Soyi KANG 강소이",
+                  "Bong-jun PARK 박봉준",
+                  "Seung-jin BAEK 백승진"
+                ],
+                "screenplay": [
+                  "Sun SHIN 신선"
+                ],
+                "cinematography": [
+                  "Kyoung-hoon AHN 안경훈"
+                ],
+                "editor": [
+                  "Sun SHIN 신선"
+                ],
+                "music": [
+                  "Tae-san KIM 김태산"
+                ],
+                "sound": [
+                  "Ju-hyun KIM 김주현"
+                ],
+                "productionCompany": [
+                  "PAULINE",
+                  "shinsun0629@gmail.com"
                 ]
               }
             }
@@ -2346,6 +4171,38 @@
               "credit": {
                 "director": [
                   "SHIN Dongmin 신동민"
+                ],
+                "executiveProducer": [
+                  "Dongmin SHIN 신동민"
+                ],
+                "co-producer​": [
+                  "Hwajin KIM 김화진"
+                ],
+                "cast": [
+                  "Seungwoo KANG 강승우",
+                  "Eunwoo SIM 심은우",
+                  "Yunyoung JO 조윤영",
+                  "Hyejeong KIM 김혜정",
+                  "Kyungwoo NAM 남경우",
+                  "Heeman KANG 강희만",
+                  "Haebyul LEE 이해별",
+                  "Jiu JUNG 정지우"
+                ],
+                "screenplay": [
+                  "Dongmin SHIN 신동민"
+                ],
+                "cinematography": [
+                  "Jaeha JUNG 정재하"
+                ],
+                "editor": [
+                  "Dongmin SHIN 신동민"
+                ],
+                "music": [
+                  "Jungwoong OH 오정웅"
+                ],
+                "productionCompany": [
+                  "DANGSIN",
+                  "dangsinfilm@gmail.com"
                 ]
               }
             }
@@ -2383,6 +4240,39 @@
               "credit": {
                 "director": [
                   "HONG Sangsoo 홍상수"
+                ],
+                "producer": [
+                  "Sangsoo HONG 홍상수"
+                ],
+                "cast": [
+                  "Minhee KIM 김민희",
+                  "Myeonggil CHOI 최명길",
+                  "Haehyo KWON 권해효",
+                  "Seokho SHIN 신석호",
+                  "Miso PARK 박미소"
+                ],
+                "screenplay": [
+                  "Sangsoo HONG 홍상수"
+                ],
+                "cinematography": [
+                  "Sangsoo HONG 홍상수"
+                ],
+                "editor": [
+                  "Sangsoo HONG 홍상수"
+                ],
+                "music": [
+                  "Sangsoo HONG 홍상수"
+                ],
+                "sound": [
+                  "Sangsoo HONG 홍상수"
+                ],
+                "productionCompany": [
+                  "Jeonwonsa Film Co.",
+                  "winterwork@naver.com"
+                ],
+                "worldSales": [
+                  "FINECUT CO. LTD.",
+                  "cineinfo@finecut.co.kr"
                 ]
               }
             }
@@ -2418,6 +4308,30 @@
               "credit": {
                 "director": [
                   "KIM Si-jin 김시진"
+                ],
+                "assistantDirector​": [
+                  "Eun-ji KWON 권은지"
+                ],
+                "producer": [
+                  "Si-jin KIM 김시진"
+                ],
+                "cast": [
+                  "Ji-il PARK 박지일",
+                  "Min-young AN 안민영",
+                  "Hee-moon YANG 양희문"
+                ],
+                "screenplay": [
+                  "Si-jin KIM 김시진"
+                ],
+                "cinematography": [
+                  "Si-jin KIM 김시진"
+                ],
+                "vFX": [
+                  "Sung-hwan KIM 김성환"
+                ],
+                "productionCompany": [
+                  "Korean Academy of Film Arts",
+                  "kkseoyeon@kofic.or.kr"
                 ]
               }
             }
@@ -2454,6 +4368,40 @@
               "credit": {
                 "director": [
                   "KATO Takuya 가토 다쿠야"
+                ],
+                "executiveProducer": [
+                  "Manabu YAMAUCHI",
+                  "Masahiro HANDA"
+                ],
+                "producer": [
+                  "Takafumi IMAI",
+                  "Fumitake ANAN",
+                  "Yuka JIMBO"
+                ],
+                "co-producer​": [
+                  "Masa SAWADA"
+                ],
+                "cast": [
+                  "Haru KUROKI",
+                  "Atsushi HASHIMOTO",
+                  "Kanji FURUTACHI",
+                  "Yoh YOSHIDA"
+                ],
+                "cinematography": [
+                  "Toshihiko KIZU"
+                ],
+                "music": [
+                  "Frédéric D. OBERLAND (FOUDRE!)",
+                  "Romain BARBOT (FOUDRE!)",
+                  "Paul RÉGIMBEAU (FOUDRE!)"
+                ],
+                "productionCompany": [
+                  "Comme des Cinémas Japon",
+                  "jimbo-y@commedescinemas-japon.com"
+                ],
+                "worldSales": [
+                  "Comme des Cinémas",
+                  "antoine@commedescinemas.com"
                 ]
               }
             }
@@ -2494,6 +4442,31 @@
               "credit": {
                 "director": [
                   "KIM Jong-kwan 김종관"
+                ],
+                "producer": [
+                  "Gyeong-suk BAEK 백경숙"
+                ],
+                "cast": [
+                  "Min-ha KIM 김민하",
+                  "Jong-hyuk JOO 주종혁",
+                  "Sun-hwa HAN 한선화",
+                  "Ryul CHANG 장률",
+                  "Eun-kyung SHIM 심은경",
+                  "Hee-jun LEE 이희준",
+                  "So-young JEON 전소영",
+                  "Dong-hwi KIM 김동휘"
+                ],
+                "cinematography": [
+                  "Ji-yong KIM 김지용",
+                  "Ju-yeon LEE 이주연"
+                ],
+                "productionCompany": [
+                  "BELIEF",
+                  "beliefcommon@naver.com"
+                ],
+                "worldSales": [
+                  "K-MOVIE Entertainment",
+                  "daegil@kmovieenter.com"
                 ]
               }
             }
@@ -2530,6 +4503,34 @@
               "credit": {
                 "director": [
                   "KIM Da-min 김다민"
+                ],
+                "cast": [
+                  "Jae-wook LEE 이재욱",
+                  "Min-si KO 고민시",
+                  "Min-ha KIM 김민하",
+                  "Hee-jun LEE 이희준"
+                ],
+                "creator": [
+                  "Jun-hee HAN 한준희"
+                ],
+                "screenplay": [
+                  "Min-sun KYUNG 경민선",
+                  "Shin-ji LEE 이신지"
+                ],
+                "executiveProducer": [
+                  "Myung-jin KIM 김명진",
+                  "Hyun-ki YOON 윤현기"
+                ],
+                "producer": [
+                  "Eun-ha YUM 염은하"
+                ],
+                "productionCompany": [
+                  "Shotcake Corp.",
+                  "revoluziokim@gmail.com"
+                ],
+                "worldSales": [
+                  "Netflix",
+                  "haejinc@netflix.com"
                 ]
               }
             }
@@ -2566,6 +4567,43 @@
               "credit": {
                 "director": [
                   "KIM Ji-hyun 김지현"
+                ],
+                "executiveProducer": [
+                  "Syd LIM 임승용"
+                ],
+                "producer": [
+                  "Jeong-bok KIM 김정복"
+                ],
+                "co-producer​": [
+                  "Su-ran KUK 국수란"
+                ],
+                "cast": [
+                  "Seung-ryong RYU 류승룡",
+                  "Hae-jun PARK 박해준"
+                ],
+                "screenplay": [
+                  "Ji-hyun KIM 김지현",
+                  "Woo-ri BANG 방우리"
+                ],
+                "cinematography": [
+                  "Young-jik CHO 조영직"
+                ],
+                "productionDesign": [
+                  "Jung-yoon BAE 배정윤"
+                ],
+                "editor": [
+                  "Jin-mo YANG 양진모"
+                ],
+                "music": [
+                  "Young-wuk CHO 조영욱"
+                ],
+                "productionCompany": [
+                  "YONGFILM",
+                  "yongfilm_d@yongfilm.com"
+                ],
+                "worldSales": [
+                  "LOTTE ENTERTAINMENT",
+                  "international02@lotte.net"
                 ]
               }
             }
@@ -2603,6 +4641,30 @@
               "credit": {
                 "director": [
                   "YI Seungjun 이승준"
+                ],
+                "producer": [
+                  "Seungjun YI 이승준",
+                  "Kyungsoo HAN 한경수",
+                  "Kyungwon PARK 박경원"
+                ],
+                "cast": [
+                  "Soo  수",
+                  "Jin  진",
+                  "Min  민"
+                ],
+                "cinematography": [
+                  "Seungjun YI 이승준",
+                  "Kyungwon PARK 박경원"
+                ],
+                "editor": [
+                  "Seungjun YI 이승준"
+                ],
+                "music": [
+                  "Yongjin JEONG 정용진"
+                ],
+                "productionCompany": [
+                  "BLUEBIRD PICTURES",
+                  "handocu@gmail.com"
                 ]
               }
             }
@@ -2641,6 +4703,32 @@
                 "director": [
                   "Éric TOLEDANO 에리크 톨레다노",
                   "Olivier NAKACHE 올리비에 나카슈"
+                ],
+                "cast": [
+                  "Louis GARREL",
+                  "Camille COTTIN",
+                  "Pierre LOTTIN",
+                  "Simon BOUBLIL"
+                ],
+                "screenplay": [
+                  "Éric TOLEDANO",
+                  "Olivier NAKACHE"
+                ],
+                "cinematography": [
+                  "Augustin BARBAROUX"
+                ],
+                "editor": [
+                  "Dorian RIGAL-ANSOUS"
+                ],
+                "music": [
+                  "GoGo PENGUIN"
+                ],
+                "productionCompany": [
+                  "QUAD and TEN CINEMA"
+                ],
+                "worldSales": [
+                  "GAUMONT",
+                  "international@gaumont.com"
                 ]
               }
             }
@@ -2684,6 +4772,39 @@
               "credit": {
                 "director": [
                   "Sarah ARNOLD 세라 아놀드"
+                ],
+                "producer": [
+                  "Helen OLIVE",
+                  "Martin BERTIER"
+                ],
+                "cast": [
+                  "Alexis MANENTI",
+                  "Ella RUMPF"
+                ],
+                "screenplay": [
+                  "Sarah ARNOLD",
+                  "Jérémie DUBOIS"
+                ],
+                "cinematography": [
+                  "Noé BACH A.F.C"
+                ],
+                "productionDesign": [
+                  "Gaëlle USANDIVARAS"
+                ],
+                "editor": [
+                  "Isabelle MANQUILLET"
+                ],
+                "music": [
+                  "Florencia DI CONCILIO"
+                ],
+                "sound": [
+                  "Jérôme PETIT"
+                ],
+                "productionCompany": [
+                  "5A7 FILMS"
+                ],
+                "worldSales": [
+                  "PLAYTIME"
                 ]
               }
             }
@@ -2725,6 +4846,46 @@
               "credit": {
                 "director": [
                   "Michelle ZHOU 미셸 저우"
+                ],
+                "executiveProducer": [
+                  "Pengzhi ZHAN",
+                  "Peicheng WANG"
+                ],
+                "producer": [
+                  "Chun YU"
+                ],
+                "co-producer​": [
+                  "Clarissa ZHANG",
+                  "Junjie ZHAI"
+                ],
+                "cast": [
+                  "Cuishan LIANG",
+                  "Jialing SUN",
+                  "Ling HU",
+                  "Bin YU",
+                  "Hai YU"
+                ],
+                "screenplay": [
+                  "Michelle ZHOU"
+                ],
+                "cinematography": [
+                  "Hark XU"
+                ],
+                "productionDesign": [
+                  "Yuxuan ZHANG"
+                ],
+                "editor": [
+                  "Xinzhu LIU"
+                ],
+                "productionCompany": [
+                  "Three Dots Films",
+                  "michellezt321@gmail.com",
+                  "Snow Island Pictures",
+                  "yuzhchyu1107@gmail.com"
+                ],
+                "worldSales": [
+                  "Moebius Entertainment",
+                  "fred.moebius@gmail.com"
                 ]
               }
             }
@@ -2760,6 +4921,41 @@
               "credit": {
                 "director": [
                   "LEE Hu-bin 이후빈"
+                ],
+                "producer": [
+                  "Kang-ho SEO 서강호"
+                ],
+                "co-producer​": [
+                  "Han-jin HUR 허한진",
+                  "Juno BAE 배준오"
+                ],
+                "cast": [
+                  "Sung-il JUNG 정성일",
+                  "Chea-myung YOU 유재명"
+                ],
+                "screenplay": [
+                  "Su-jin LEE 이수진"
+                ],
+                "cinematography": [
+                  "Seung-bin LEE 이승빈"
+                ],
+                "productionDesign": [
+                  "Won-woo CHO 조원우"
+                ],
+                "editor": [
+                  "Sun-mi HEO 허선미"
+                ],
+                "productionCompany": [
+                  "Twinfilm Co.¸ Ltd.",
+                  "alswns01279@naver.com",
+                  "Paperlit Studios Co.¸ Ltd.",
+                  "cdaeh@paperlit.co.kr",
+                  "Loa & Co Holdings Co.¸Ltd",
+                  "hyunjaeh@loancoholdings.com"
+                ],
+                "worldSales": [
+                  "Hive Filmworks Inc.",
+                  "sales@burzip.com"
                 ]
               }
             }
@@ -2798,6 +4994,43 @@
               "credit": {
                 "director": [
                   "Rima DAS 리마 다스"
+                ],
+                "executiveProducer": [
+                  "Aditya VARMA"
+                ],
+                "producer": [
+                  "Rima DAS"
+                ],
+                "co-producer​": [
+                  "Fran BORGIA",
+                  "Jaya DAS",
+                  "Chippy BABU",
+                  "Abhishek SHARMA"
+                ],
+                "cast": [
+                  "Bhuman BHARGAV DAS",
+                  "Sukanya BORUAH",
+                  "Mrinmoy DAS"
+                ],
+                "screenplay": [
+                  "Rima DAS"
+                ],
+                "cinematography": [
+                  "Aditya VARMA"
+                ],
+                "editor": [
+                  "Rima DAS"
+                ],
+                "music": [
+                  "Pallab TALUKDAR"
+                ],
+                "productionCompany": [
+                  "Flying River Films",
+                  "flyingriverfilms@gmail.com"
+                ],
+                "worldSales": [
+                  "MMM Film Sales",
+                  "matthias@mmmfilmsales.com"
                 ]
               }
             }
@@ -2837,6 +5070,43 @@
               "credit": {
                 "director": [
                   "Andrew HAIGH 앤드류 헤이그"
+                ],
+                "producer": [
+                  "Tristan GOLIGHER",
+                  "Chad OAKES",
+                  "Michael FRISLEV",
+                  "Michael ELLIOTT"
+                ],
+                "cast": [
+                  "Fred HECHINGER",
+                  "Ebon MOSS-BACHRACH",
+                  "Caitríona BALFE",
+                  "Kit CONNOR",
+                  "D’Pharaoh WOON-A-TAI"
+                ],
+                "screenplay": [
+                  "Andrew HAIGH"
+                ],
+                "cinematography": [
+                  "André TURPIN"
+                ],
+                "productionDesign": [
+                  "Emmanuel FRÉCHETTE"
+                ],
+                "editor": [
+                  "Jonathan ALBERTS"
+                ],
+                "music": [
+                  "Paul HASLINGER"
+                ],
+                "sound": [
+                  "Joakim SUNDSTRÖM"
+                ],
+                "productionCompany": [
+                  "The Bureau",
+                  "Nomadic Pictures",
+                  "MUBI",
+                  "Film4"
                 ]
               }
             }
@@ -2877,6 +5147,29 @@
               "credit": {
                 "director": [
                   "HA Ji-hyung 하지형"
+                ],
+                "assistantDirector​": [
+                  "Eun-byeol SON 손은별"
+                ],
+                "executiveProducer": [
+                  "Ji-hyung HA 하지형"
+                ],
+                "cast": [
+                  "Min-sik KIM 김민식",
+                  "Ga-young PARK 박가영",
+                  "Seung-han LEE 이승한"
+                ],
+                "cinematography": [
+                  "Chan-hyeok KWON 권찬혁"
+                ],
+                "editor": [
+                  "Ji-hyung HA 하지형"
+                ],
+                "music": [
+                  "Hyeon-seo PARK 박현서"
+                ],
+                "sound": [
+                  "Jeong-min CHO 조정민"
                 ]
               }
             },
@@ -2902,6 +5195,28 @@
               "credit": {
                 "director": [
                   "﻿KIM ﻿Nam-hyeon 김남현"
+                ],
+                "producer": [
+                  "Kyo-hwi ﻿JUNG ﻿정교휘"
+                ],
+                "cast": [
+                  "Woongkyu ﻿MA ﻿마웅규",
+                  "Ian ﻿YEON ﻿연이안"
+                ],
+                "cinematography": [
+                  "Sungkyung ﻿YANG ﻿양성경"
+                ],
+                "productionDesign": [
+                  "Ji-yeong KIM ﻿김지영"
+                ],
+                "music": [
+                  "Gyeongjin LEE ﻿이경진"
+                ],
+                "sound": [
+                  "Jae-hee ﻿LEE ﻿이제희"
+                ],
+                "productionCompany": [
+                  "﻿KAFA (Korean Academy of Film Arts)"
                 ]
               }
             },
@@ -2928,6 +5243,15 @@
               "credit": {
                 "director": [
                   "YUN Taerang 윤태랑"
+                ],
+                "cast": [
+                  "Heewon KANG 강희원"
+                ],
+                "productionDesign": [
+                  "Seungyeon KIM 김승연"
+                ],
+                "music": [
+                  "Kyungchul SHIN 신경철"
                 ]
               }
             },
@@ -2952,6 +5276,36 @@
               "credit": {
                 "director": [
                   "GONG Seonjeong 공선정"
+                ],
+                "assistantDirector​": [
+                  "Byeonggyu KIM 김병규",
+                  "Hyunjin KIM 김현진"
+                ],
+                "producer": [
+                  "Jiwon JUNG 정지원"
+                ],
+                "cast": [
+                  "Jeongmin HONG 홍정민",
+                  "Jin-a KANG 강진아",
+                  "Jinbeom JANG 장진범"
+                ],
+                "cinematography": [
+                  "Chanyeol LEE 이찬열"
+                ],
+                "editor": [
+                  "Seonjeong GONG 공선정"
+                ],
+                "sound": [
+                  "Dongyoung KIM 김동영"
+                ],
+                "mixing": [
+                  "Minseo KIL 길민서"
+                ],
+                "d.I": [
+                  "Hoyoung LEE 이호영"
+                ],
+                "titleDesign": [
+                  "Hanbin KIM 김한빈"
                 ]
               }
             }
@@ -2989,6 +5343,39 @@
               "credit": {
                 "director": [
                   "YOON Dan-bi 윤단비"
+                ],
+                "executiveProducer": [
+                  "Suzuko HATANAKA 하타나카 스즈코",
+                  "Young-shin SONG 송영신"
+                ],
+                "producer": [
+                  "Dan-bi YOON 윤단비"
+                ],
+                "cast": [
+                  "Su-bin SIM 심수빈",
+                  "Eo-jin KIM 김어진"
+                ],
+                "screenplay": [
+                  "Dan-bi YOON 윤단비"
+                ],
+                "cinematography": [
+                  "Seong-eun LEE 이성은"
+                ],
+                "productionDesign": [
+                  "Young-tak KIM 김영탁"
+                ],
+                "editor": [
+                  "Chang-jae WON 원창재"
+                ],
+                "music": [
+                  "Min-hwi LEE 이민휘"
+                ],
+                "sound": [
+                  "Won KIM 김원"
+                ],
+                "productionCompany": [
+                  "Cheonggwa",
+                  "Humanité Co.¸ Ltd."
                 ]
               }
             }
@@ -3026,6 +5413,38 @@
               "credit": {
                 "director": [
                   "Mads MENGEL 마스 멩엘"
+                ],
+                "producer": [
+                  "Victor CUNHA"
+                ],
+                "cast": [
+                  "Trine DYRHOLM",
+                  "Simon BENNEBJERG",
+                  "Josephine PARK"
+                ],
+                "screenplay": [
+                  "Mads MENGEL",
+                  "Christian BENGTSON"
+                ],
+                "cinematography": [
+                  "David BAUER"
+                ],
+                "editor": [
+                  "Louis Emil RAMM SEEBERG"
+                ],
+                "music": [
+                  "Lasse AAGAARD"
+                ],
+                "sound": [
+                  "Andreas SANDBORG"
+                ],
+                "productionCompany": [
+                  "Monolit Film",
+                  "victor@monolitfilm.dk"
+                ],
+                "worldSales": [
+                  "LevelK",
+                  "tine.klint@levelk.dk"
                 ]
               }
             }
@@ -3063,6 +5482,34 @@
               "credit": {
                 "director": [
                   "CHO Suwon 조수원"
+                ],
+                "executiveProducer": [
+                  "Yunjae JUNG 정윤재"
+                ],
+                "producer": [
+                  "Mikyung (Michelle) KWON 권미경"
+                ],
+                "co-producer​": [
+                  "Sangzik LEE 이상직",
+                  "Namsu KIM 김남수"
+                ],
+                "cast": [
+                  "Mina SHIN 신민아",
+                  "Jihoon JU 주지훈",
+                  "Jongsuk LEE 이종석",
+                  "Seyoung LEE 이세영"
+                ],
+                "screenplay": [
+                  "Geena YEOH 여지나",
+                  "Choongyeol HYUN 현충열"
+                ],
+                "productionCompany": [
+                  "StudioN corp.",
+                  "sally.cha@studioncorp.com"
+                ],
+                "worldSales": [
+                  "Walt Disney Company Korea",
+                  "Carrie.Park@disney.com"
                 ]
               }
             }
@@ -3100,6 +5547,32 @@
               "credit": {
                 "director": [
                   "Sébastien LAUDENBACH 세바스티앵 라우덴바흐"
+                ],
+                "cast": [
+                  "Camélia JORDANA",
+                  "Milo MACHADO-GRANER",
+                  "Soumaye BOCOUM",
+                  "Carl MALAPA"
+                ],
+                "screenplay": [
+                  "Sébastien LAUDENBACH",
+                  "Santiago OTHEGUY"
+                ],
+                "editor": [
+                  "Catherine ALADENISE"
+                ],
+                "music": [
+                  "Amine BOUHAFA",
+                  "Isabelle LAUDENBACH",
+                  "Camélia JORDANA"
+                ],
+                "productionCompany": [
+                  "Folivari",
+                  "contact@folivari.com"
+                ],
+                "worldSales": [
+                  "Global Constellation c/o Global Screen GmbH",
+                  "sales@globalconstellation.eu"
                 ]
               }
             }
@@ -3139,6 +5612,41 @@
               "credit": {
                 "director": [
                   "HONG Sung-min 홍성민"
+                ],
+                "executiveProducer": [
+                  "Hyo-jung SONG 송효정"
+                ],
+                "producer": [
+                  "Yun-sik YANG 양윤식"
+                ],
+                "co-producer​": [
+                  "Na-ra LEE 이나라",
+                  "Hyun-sung MOON 문현성"
+                ],
+                "cast": [
+                  "Sung-il JUNG 정성일",
+                  "Ji-hyun PARK 박지현"
+                ],
+                "screenplay": [
+                  "Sung-min HONG 홍성민"
+                ],
+                "cinematography": [
+                  "Yong-sung KIM 김용성"
+                ],
+                "productionDesign": [
+                  "Hye-jung JIN 진혜정"
+                ],
+                "editor": [
+                  "Hyun-kun AHN 안현건"
+                ],
+                "music": [
+                  "Dae-sung HONG 홍대성"
+                ],
+                "productionCompany": [
+                  "BLUEFIRE STUDIO CO.¸ LTD.",
+                  "song@bluefire.co.kr",
+                  "Stone-V Studio Inc.",
+                  "kinonation@stonevstudio.com"
                 ]
               }
             }
@@ -3173,6 +5681,22 @@
               "credit": {
                 "director": [
                   "KIM Joung-hoon 김정훈"
+                ],
+                "cast": [
+                  "Jae-won KIM 김재원",
+                  "Yi-hyun CHO 조이현",
+                  "You-seok KANG 강유석",
+                  "Seung-ho SHIN 신승호",
+                  "Dong-yeon KWAK 곽동연",
+                  "Gang-hee BAE 배강희"
+                ],
+                "productionCompany": [
+                  "Covenant Pictures Co.¸ LTD.",
+                  "justin_choi@covenantpic.com"
+                ],
+                "worldSales": [
+                  "Contents Panda",
+                  "peter@contentspanda.com"
                 ]
               }
             }
@@ -3211,6 +5735,35 @@
               "credit": {
                 "director": [
                   "Ivan MARKOVIĆ 이반 마르코비치"
+                ],
+                "producer": [
+                  "Jasmina SIJERČIĆ",
+                  "Zsófia Lili KOVÁCS",
+                  "Ivan MARKOVIĆ",
+                  "Jelena RADENKOVIĆ",
+                  "Daniel MATTES"
+                ],
+                "cast": [
+                  "Vollak KONG",
+                  "Chea LOCH",
+                  "Vita VONG",
+                  "Lyer VON",
+                  "Theara OR",
+                  "Kanitha TITH"
+                ],
+                "screenplay": [
+                  "Ivan MARKOVIĆ",
+                  "Tanja ŠLJIVAR",
+                  "Savunthara SENG",
+                  "Thong SENGHORNG"
+                ],
+                "cinematography": [
+                  "Katharina HAUKE",
+                  "Ivan MARKOVIĆ"
+                ],
+                "worldSales": [
+                  "Luminalia",
+                  "tommaso@luminaliafilm.com"
                 ]
               }
             }
@@ -3248,6 +5801,25 @@
               "credit": {
                 "director": [
                   "YOON Juyoung 윤주영"
+                ],
+                "producer": [
+                  "Tera KIM 김태라"
+                ],
+                "cast": [
+                  "Juyoung YOON 윤주영"
+                ],
+                "productionDesign": [
+                  "Jiwon YOO 유지원"
+                ],
+                "music": [
+                  "Minhee HAN 한민희"
+                ],
+                "sound": [
+                  "Jusuk LEE 이주석"
+                ],
+                "productionCompany": [
+                  "Soundweave",
+                  "jykz2222@gmail.com"
                 ]
               }
             }
@@ -3291,6 +5863,40 @@
               "credit": {
                 "director": [
                   "Taekyung Tanja Inwol SØRENSEN 태경 탄야 인월 쇠렌센"
+                ],
+                "producer": [
+                  "Rikke TAMBO ANDERSEN",
+                  "Sofie FALTHER"
+                ],
+                "co-producer​": [
+                  "Sona JO",
+                  "Virpi SUUTARI"
+                ],
+                "cast": [
+                  "Taekyung Tanja Inwol SØRENSEN"
+                ],
+                "cinematography": [
+                  "Cat PATTINAMA COLEMAN",
+                  "Mathias DØCKER"
+                ],
+                "editor": [
+                  "Matilda HENNINGSSON"
+                ],
+                "music": [
+                  "Moriamo AHMED"
+                ],
+                "sound": [
+                  "Rune THUELUND"
+                ],
+                "productionCompany": [
+                  "SonaFilms",
+                  "sona0327@gmail.com",
+                  "Tambo Film",
+                  "sofie@tambofilm.dk"
+                ],
+                "worldSales": [
+                  "Impronta Films",
+                  "ana@improntafilms.com"
                 ]
               }
             }
@@ -3326,6 +5932,13 @@
               "credit": {
                 "director": [
                   "Zainab ENTEZAR 자이나브 엔테자르"
+                ],
+                "cast": [
+                  "Zainab ENTEZAR"
+                ],
+                "productionCompany": [
+                  "Lumier Film",
+                  "Oscarentezar37@gmail.com"
                 ]
               }
             }
@@ -3364,6 +5977,44 @@
               "credit": {
                 "director": [
                   "Dominga SOTOMAYOR 도밍가 소토마요르"
+                ],
+                "producer": [
+                  "Rodrigo TEIXEIRA",
+                  "Fernando BASCUÑÁN",
+                  "Berta MARCHIORI"
+                ],
+                "cast": [
+                  "Manuela OYARZÚN",
+                  "David GAETE",
+                  "Selton MELLO",
+                  "Paula LUCHSINGER",
+                  "Paula DINAMARCA",
+                  "Rafaella GRIMBERG"
+                ],
+                "screenplay": [
+                  "Inés BORTAGARAY"
+                ],
+                "cinematography": [
+                  "Simone D’ARCANGELO"
+                ],
+                "productionDesign": [
+                  "Natalia GEISSE"
+                ],
+                "editor": [
+                  "Federico ROTSTEIN"
+                ],
+                "music": [
+                  "Clint MANSELL"
+                ],
+                "productionCompany": [
+                  "RT Features",
+                  "berta@rtfeatures.com.br",
+                  "Planta",
+                  "fernando@plantacine.cl"
+                ],
+                "worldSales": [
+                  "Lucky Number",
+                  "sales@luckynumber.fr"
                 ]
               }
             }
@@ -3410,6 +6061,33 @@
               "credit": {
                 "director": [
                   "Pegah AHANGARANI 페가 아항가라니"
+                ],
+                "executiveProducer": [
+                  "Enric BACH",
+                  "Sergi MORENO"
+                ],
+                "producer": [
+                  "Kaveh FARNAM",
+                  "Adrià MONÉS"
+                ],
+                "co-producer​": [
+                  "Parnian FARNAM"
+                ],
+                "screenplay": [
+                  "Pegah AHANGARANI"
+                ],
+                "editor": [
+                  "Arash ASHTIANI"
+                ],
+                "music": [
+                  "Anna ANDREU"
+                ],
+                "sound": [
+                  "Neda MOHSENI"
+                ],
+                "productionCompany": [
+                  "Media Nest (Czech Republic)",
+                  "Fasten Films (Spain)"
                 ]
               }
             }
@@ -3446,6 +6124,20 @@
               "credit": {
                 "director": [
                   "FUJII Michihito 후지이 미치히토"
+                ],
+                "cast": [
+                  "Ryusei YOKOHAMA 요코하마 류세이",
+                  "Suzu HIROSE 히로세 스즈"
+                ],
+                "screenplay": [
+                  "Naoko ADACHI 아다치 나오코"
+                ],
+                "productionCompany": [
+                  "TOHO studio",
+                  "Dragonfly Entertainment"
+                ],
+                "worldSales": [
+                  "TOHO"
                 ]
               }
             }
@@ -3487,6 +6179,48 @@
               "credit": {
                 "director": [
                   "Shahrbanoo SADAT 샤르바누 사다트"
+                ],
+                "producer": [
+                  "Katja ADOMEIT"
+                ],
+                "cast": [
+                  "Shahrbanoo SADAT",
+                  "Anwar HASHIMI",
+                  "Liam HUSSAINI",
+                  "Yasin NEGAH",
+                  "Masihullah TAJZAI",
+                  "Torkan OMARI",
+                  "Fatima HASSANI",
+                  "Ahmad AZIZI"
+                ],
+                "screenplay": [
+                  "Shahrbanoo SADAT"
+                ],
+                "cinematography": [
+                  "Virginie SURDEJ"
+                ],
+                "productionDesign": [
+                  "Pegah GHALAMBOR"
+                ],
+                "editor": [
+                  "Alexandra STRAUSS"
+                ],
+                "music": [
+                  "Harpreet BANSAL",
+                  "Therese AUNE",
+                  "Kristian EIDNES"
+                ],
+                "sound": [
+                  "Anne GRY FRIIS KRISTENSEN",
+                  "Sigrid DPA JENSEN"
+                ],
+                "productionCompany": [
+                  "Adomeit Film",
+                  "katja@adomeitfilm.com"
+                ],
+                "worldSales": [
+                  "Lucky Number",
+                  "sales@luckynumber.fr"
                 ]
               }
             }
@@ -3525,6 +6259,20 @@
               "credit": {
                 "director": [
                   "Markus SCHLEINZER 마르쿠스 슐라인처"
+                ],
+                "cast": [
+                  "Sandra HÜLLER",
+                  "Caro BRAUN"
+                ],
+                "screenplay": [
+                  "Markus SCHLEINZER"
+                ],
+                "productionCompany": [
+                  "Schubert"
+                ],
+                "worldSales": [
+                  "The Match Factory",
+                  "ching-lo.hsu@matchfactory.de"
                 ]
               }
             }
@@ -3566,6 +6314,35 @@
               "credit": {
                 "director": [
                   "Cédric KAHN 세드리크 칸"
+                ],
+                "cast": [
+                  "Malou KHEBIZI",
+                  "Zoé MONPART",
+                  "Kenji PEYRAN",
+                  "Cédric KAHN",
+                  "Sophie GUILLEMIN",
+                  "Jennifer DECKER"
+                ],
+                "screenplay": [
+                  "Cédric KAHN",
+                  "Kahina LE QUERREC"
+                ],
+                "cinematography": [
+                  "Patrick GHIRINGHELLI"
+                ],
+                "editor": [
+                  "Geraldine MANGENOT"
+                ],
+                "music": [
+                  "Gael ROKOTONDRABE"
+                ],
+                "productionCompany": [
+                  "Ad Vitam Films",
+                  "films@advitamdistribution.com"
+                ],
+                "worldSales": [
+                  "Charades",
+                  "leonard@charades.eu"
                 ]
               }
             }
@@ -3603,6 +6380,34 @@
               "credit": {
                 "director": [
                   "Lav DIAZ 라브 디아즈"
+                ],
+                "executiveProducer": [
+                  "Bradley LIEW",
+                  "Lovi POE"
+                ],
+                "producer": [
+                  "Bianca BALBUENA",
+                  "Montgomery BLENCOWE"
+                ],
+                "cast": [
+                  "Christian BABLES",
+                  "Bart GUINGONA",
+                  "Yul SERVO",
+                  "Ronnie LAZARO",
+                  "Isabel SANDOVAL",
+                  "Rafa SIGUION-REYNA",
+                  "Bong CABRERA"
+                ],
+                "lineProducer": [
+                  "Hazel ORENCIO"
+                ],
+                "productionCompany": [
+                  "Epicmedia Productions Inc",
+                  "Sine Olivia Pilipinas"
+                ],
+                "worldSales": [
+                  "Heretic",
+                  "info@heretic.gr"
                 ]
               }
             }
@@ -3639,6 +6444,37 @@
               "credit": {
                 "director": [
                   "Sandra WOLLNER 산드라 볼너"
+                ],
+                "producer": [
+                  "David BOHUN",
+                  "Viktoria STOLPE",
+                  "Lixi FRANK"
+                ],
+                "cast": [
+                  "Birgit MINICHMAYR",
+                  "Lotte SHIRIN KEILING",
+                  "Tristan LOPEZ",
+                  "Carla HÜTTERMANN"
+                ],
+                "screenplay": [
+                  "Sandra WOLLNER"
+                ],
+                "cinematography": [
+                  "Gregory OKE"
+                ],
+                "editor": [
+                  "Hannes BRUUN"
+                ],
+                "music": [
+                  "David SCHWEIGHART"
+                ],
+                "productionCompany": [
+                  "Panama Film",
+                  "The Barricades"
+                ],
+                "worldSales": [
+                  "Charades",
+                  "leonard@charades.eu"
                 ]
               }
             }
@@ -3686,6 +6522,46 @@
               "credit": {
                 "director": [
                   "Kamila ANDINI 카밀라 안디니"
+                ],
+                "producer": [
+                  "Ifa ISFANSYAH"
+                ],
+                "cast": [
+                  "Putri MARINO",
+                  "Christine HAKIM",
+                  "Arya SALOKA",
+                  "Hana Pitrashata MALASAN",
+                  "Dwika PRADNYANA",
+                  "Hargi SUNDARI",
+                  "Iswadi PRATAMA",
+                  "Shofia SHIREEN",
+                  "Totos RASITI",
+                  "Nagra PAKUSADEWO"
+                ],
+                "cinematography": [
+                  "Batara GOEMPAR"
+                ],
+                "productionDesign": [
+                  "Dita GAMBIRO"
+                ],
+                "editor": [
+                  "Akhmad Fesdi ANGGORO"
+                ],
+                "music": [
+                  "Ricky LIONARDI",
+                  "Bottlesmoker"
+                ],
+                "sound": [
+                  "Vincent VILLA",
+                  "Sutrisno"
+                ],
+                "productionCompany": [
+                  "Forka Films",
+                  "isfansyah@forkafilms.com"
+                ],
+                "worldSales": [
+                  "GOODFELLAS",
+                  "lmehu@goodfellas.com"
                 ]
               }
             }
@@ -3718,6 +6594,24 @@
               "credit": {
                 "director": [
                   "LEE Myung-Se 이명세"
+                ],
+                "producer": [
+                  "Myung-Se LEE 이명세"
+                ],
+                "cast": [
+                  "Dong-won GANG 강동원",
+                  "Yeon-hee LEE 이연희",
+                  "Hyo-jin KONG 공효진"
+                ],
+                "cinematography": [
+                  "Kyung-Pyo HONG 홍경표"
+                ],
+                "music": [
+                  "Sung-Woo CHO 조성우"
+                ],
+                "productionCompany": [
+                  "PRODUCTION M",
+                  "gonggan2dong@hanmail.net"
                 ]
               }
             }
@@ -3813,6 +6707,26 @@
               "credit": {
                 "director": [
                   "David LOWERY 데이빗 로워리"
+                ],
+                "cast": [
+                  "Anne HATHAWAY",
+                  "Michael COEL"
+                ],
+                "screenplay": [
+                  "David LOWERY"
+                ],
+                "costumeDesigner": [
+                  "Bina DAIGELER"
+                ],
+                "redMotherDressDesigner": [
+                  "Iris VAN HERPEN"
+                ],
+                "originalScore": [
+                  "Daniel HART"
+                ],
+                "originalSongs": [
+                  "Jack ANTONOFF",
+                  "Charli XCX"
                 ]
               }
             }
@@ -3848,6 +6762,35 @@
               "credit": {
                 "director": [
                   "Marine ATLAN 마린 아틀랑"
+                ],
+                "producer": [
+                  "Inès DAÏEN DASI"
+                ],
+                "cast": [
+                  "Colas QUIGNARD",
+                  "Mitia CAPELLIER-AUDAT",
+                  "Suzanne GERIN",
+                  "Antonia BURESI"
+                ],
+                "screenplay": [
+                  "Marine ATLAN",
+                  "Anne BROUILLET"
+                ],
+                "cinematography": [
+                  "Marine ATLAN",
+                  "Pierre MAZOYER"
+                ],
+                "productionDesign": [
+                  "Anna LE MOUËL"
+                ],
+                "editor": [
+                  "Guillaume LILLO"
+                ],
+                "productionCompany": [
+                  "Les Films du Poisson"
+                ],
+                "worldSales": [
+                  "MK2 Films"
                 ]
               }
             }
@@ -3888,6 +6831,16 @@
               "credit": {
                 "director": [
                   "Sean BAKER 션 베이커"
+                ],
+                "cast": [
+                  "Michelle YEOH"
+                ],
+                "cinematography": [
+                  "Christopher RIPLEY"
+                ],
+                "productionCompany": [
+                  "Superprime",
+                  "Holy Momma"
                 ]
               }
             },
@@ -3916,6 +6869,18 @@
                 "director": [
                   "Daniel KWAN 다니엘 콴",
                   "Daniel SCHEINERT 다니엘 쉐이너트"
+                ],
+                "producer": [
+                  "Jonathan WANG",
+                  "Daniel KWAN"
+                ],
+                "cast": [
+                  "Michelle YEOH",
+                  "Ke Huy QUAN",
+                  "Stephanie HSU"
+                ],
+                "editor": [
+                  "Paul ROGERS"
                 ]
               }
             }
@@ -3954,6 +6919,37 @@
               "credit": {
                 "director": [
                   "James GRAY 제임스 그레이"
+                ],
+                "cast": [
+                  "Adam DRIVER",
+                  "Scarlett JOHANSSON",
+                  "Miles TELLER"
+                ],
+                "screenplay": [
+                  "James GRAY"
+                ],
+                "cinematography": [
+                  "Joaquin BACA-ASAY"
+                ],
+                "productionDesign": [
+                  "Happy MASSEE"
+                ],
+                "editor": [
+                  "Scott MORRIS"
+                ],
+                "music": [
+                  "Christopher SPELMAN"
+                ],
+                "sound": [
+                  "Dane LONSDALE",
+                  "Robert HEIN",
+                  "Josh BERGER"
+                ],
+                "productionCompany": [
+                  "RT Features"
+                ],
+                "worldSales": [
+                  "The Veterans"
                 ]
               }
             }
@@ -3996,6 +6992,35 @@
               "credit": {
                 "director": [
                   "KANAI Ko 가나이 고"
+                ],
+                "producer": [
+                  "Yoshikazu TSUBAKI",
+                  "Reiko IMAYASU"
+                ],
+                "cast": [
+                  "Kento YAMAZAKI",
+                  "Kouhei MATSUSHITA",
+                  "Koichi SATO",
+                  "Miyoko ASADA",
+                  "Noriko EGUCHI"
+                ],
+                "screenplay": [
+                  "Mitsuru TANABE",
+                  "Ko KANAI"
+                ],
+                "cinematography": [
+                  "Maki ITO"
+                ],
+                "music": [
+                  "Yusuke TSUTSUMI"
+                ],
+                "productionCompany": [
+                  "KADOKAWA CORPORATION",
+                  "suzuki-me@kadokawa.jp"
+                ],
+                "worldSales": [
+                  "KADOKAWA CORPORATION",
+                  "suzuki-me@kadokawa.jp"
                 ]
               }
             }
@@ -4036,6 +7061,47 @@
               "credit": {
                 "director": [
                   "Ghasideh GOLMAKANI 가시데 골마카니"
+                ],
+                "executiveProducer": [
+                  "Saba M. REZAEI",
+                  "David M. LORENZ"
+                ],
+                "producer": [
+                  "Ghasideh GOLMAKANI"
+                ],
+                "cast": [
+                  "Mehrnoosh SATARI",
+                  "Saeed NADERI",
+                  "Ebrahim AZIZI",
+                  "Amir HAJIMOHAMMADI",
+                  "Reza MOHSENI",
+                  "Saman MAZLOOMI",
+                  "Elaheh FARAZMAND",
+                  "Bahador BASTANHAGH",
+                  "Mohammad SAEEDI",
+                  "Lili FARHADPOUR"
+                ],
+                "screenplay": [
+                  "Ghasideh GOLMAKANI"
+                ],
+                "cinematography": [
+                  "Amin JAFARI"
+                ],
+                "productionDesign": [
+                  "Melody ESMAEILI"
+                ],
+                "editor": [
+                  "Maryam HASHEMIPOUR"
+                ],
+                "music": [
+                  "Yoones ESKANDARI"
+                ],
+                "sound": [
+                  "Alireza ALAVIAN"
+                ],
+                "worldSales": [
+                  "DreamLab Films",
+                  "nasrine@dreamlabfilms.com"
                 ]
               }
             }
@@ -4076,6 +7142,48 @@
               "credit": {
                 "director": [
                   "Rafael MANUEL 라파엘 마누엘"
+                ],
+                "executiveProducer": [
+                  "Zhangke JIA"
+                ],
+                "producer": [
+                  "Jeremy CHUA",
+                  "Alex POLUNIN",
+                  "Bradley LIEW",
+                  "Bianca BALBUENA",
+                  "Nadia TURINCEV",
+                  "Omar EL KADI",
+                  "Rafael MANUEL"
+                ],
+                "cast": [
+                  "Jorrybell AGOTO",
+                  "Teroy GUZMAN",
+                  "Carmen CASTELLANOS",
+                  "Carlitos SIGUION-REYNA",
+                  "Isabel SICAT",
+                  "Angeli BAYANI",
+                  "Elle VELASCO",
+                  "Nour HOOSHMAND",
+                  "Micah MUSA",
+                  "Sunshine TEODORO"
+                ],
+                "screenplay": [
+                  "Rafel MANUEL"
+                ],
+                "cinematography": [
+                  "Xenia PATRICIA"
+                ],
+                "productionCompany": [
+                  "Potocol",
+                  "jeremy@potocol.co",
+                  "Deivos",
+                  "Epicmedia",
+                  "Easy Riders",
+                  "Idle Eye"
+                ],
+                "worldSales": [
+                  "MAGNIFY",
+                  "sgoldstein@magpictures.com"
                 ]
               }
             }
@@ -4114,6 +7222,22 @@
               "credit": {
                 "director": [
                   "BAI Xue 바이 슈에"
+                ],
+                "producer": [
+                  "Muye WEN"
+                ],
+                "cast": [
+                  "Michelle YEOH",
+                  "Haoran LIU"
+                ],
+                "screenplay": [
+                  "Yan SUN",
+                  "Xue BAI",
+                  "Yizhou XU"
+                ],
+                "worldSales": [
+                  "Media Asia Film Distribution (HK) Limited",
+                  "vanessa_lo@mediaasia.com"
                 ]
               }
             }
