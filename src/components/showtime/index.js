@@ -84,7 +84,7 @@ const Showtime = ({ show, firstScreenTime }) => {
       <Popover open={descVisible} onOpenChange={handleDescVisibleChange}>
         <PopoverTrigger asChild>
           <div style={{ marginTop: `0.375rem` }}>
-            <p className="mb-1">
+            <p className="mb-1.5">
               <span className="font-semibold">
                 {show.time}~{endTime}
               </span>
