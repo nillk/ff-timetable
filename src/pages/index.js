@@ -19,7 +19,7 @@ export default ({ data }) => {
 
   return (
     <Page>
-      <h1 className="mb-4 flex items-center gap-2 text-2xl font-semibold">
+      <h1 className="mt-0 mb-4 flex items-center gap-2 text-2xl font-semibold">
         <Video className="size-6" /> Film Festival Timetable
       </h1>
       <div>

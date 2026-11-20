@@ -25,7 +25,7 @@ export default ({ visible, onClose, screening, state, actions }) => {
           e.currentTarget.focus();
         }}>
         <SheetHeader>
-          <SheetTitle className="flex items-center gap-2">
+          <SheetTitle className="m-0 flex items-center gap-2">
             Filter
             <TooltipProvider>
               <Tooltip>
