@@ -69,6 +69,8 @@
   }
 
   .subprograms {
+    list-style: square;
+    padding-left: 1rem;
     color: var(--muted-foreground);
   }
 
