@@ -61,7 +61,10 @@
   }
 
   .subtitle {
+    display: block;
+    margin-top: 0.125rem;
     font-style: italic;
+    font-weight: 300;
     color: var(--muted-foreground);
   }
 
