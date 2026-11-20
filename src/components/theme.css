@@ -170,6 +170,7 @@
 
     .desc {
       font-size: 0.825rem;
+      line-height: 1.5;
     }
   }
 }
