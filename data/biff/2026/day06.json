@@ -37,6 +37,31 @@
               "credit": {
                 "director": [
                   "KIM Jong-kwan 김종관"
+                ],
+                "producer": [
+                  "Gyeong-suk BAEK 백경숙"
+                ],
+                "cast": [
+                  "Min-ha KIM 김민하",
+                  "Jong-hyuk JOO 주종혁",
+                  "Sun-hwa HAN 한선화",
+                  "Ryul CHANG 장률",
+                  "Eun-kyung SHIM 심은경",
+                  "Hee-jun LEE 이희준",
+                  "So-young JEON 전소영",
+                  "Dong-hwi KIM 김동휘"
+                ],
+                "cinematography": [
+                  "Ji-yong KIM 김지용",
+                  "Ju-yeon LEE 이주연"
+                ],
+                "productionCompany": [
+                  "BELIEF",
+                  "beliefcommon@naver.com"
+                ],
+                "worldSales": [
+                  "K-MOVIE Entertainment",
+                  "daegil@kmovieenter.com"
                 ]
               }
             }
