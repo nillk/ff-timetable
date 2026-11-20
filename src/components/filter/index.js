@@ -18,7 +18,12 @@ export default ({ visible, onClose, screening, state, actions }) => {
 
   return (
     <Sheet open={visible} onOpenChange={open => !open && onClose()}>
-      <SheetContent className="max-md:w-[calc(100%-1rem)]!">
+      <SheetContent
+        className="max-md:w-[calc(100%-1rem)]!"
+        onOpenAutoFocus={e => {
+          e.preventDefault();
+          e.currentTarget.focus();
+        }}>
         <SheetHeader>
           <SheetTitle className="flex items-center gap-2">
             Filter
